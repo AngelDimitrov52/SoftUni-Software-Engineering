@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AreaTrapez/1.0.0": {
+        "runtime": {
+          "AreaTrapez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaTrapez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\bin\Debug\netcoreapp3.1\03.HeardDivise.exe
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\bin\Debug\netcoreapp3.1\03.HeardDivise.deps.json
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\bin\Debug\netcoreapp3.1\03.HeardDivise.runtimeconfig.json
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\bin\Debug\netcoreapp3.1\03.HeardDivise.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\bin\Debug\netcoreapp3.1\03.HeardDivise.dll
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\bin\Debug\netcoreapp3.1\03.HeardDivise.pdb
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\obj\Debug\netcoreapp3.1\03.HeardDivise.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\obj\Debug\netcoreapp3.1\03.HeardDivise.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\obj\Debug\netcoreapp3.1\03.HeardDivise.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\obj\Debug\netcoreapp3.1\03.HeardDivise.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\obj\Debug\netcoreapp3.1\03.HeardDivise.dll
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\obj\Debug\netcoreapp3.1\03.HeardDivise.pdb
+C:\Users\AngelPC\source\repos\MidExam-29Feb2020Group2\03.HeardDivise\obj\Debug\netcoreapp3.1\03.HeardDivise.genruntimeconfig.cache

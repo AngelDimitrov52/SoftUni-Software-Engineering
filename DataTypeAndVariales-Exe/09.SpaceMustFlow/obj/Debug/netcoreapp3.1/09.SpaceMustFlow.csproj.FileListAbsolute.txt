@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\bin\Debug\netcoreapp3.1\09.SpaceMustFlow.exe
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\bin\Debug\netcoreapp3.1\09.SpaceMustFlow.deps.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\bin\Debug\netcoreapp3.1\09.SpaceMustFlow.runtimeconfig.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\bin\Debug\netcoreapp3.1\09.SpaceMustFlow.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\bin\Debug\netcoreapp3.1\09.SpaceMustFlow.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\bin\Debug\netcoreapp3.1\09.SpaceMustFlow.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\obj\Debug\netcoreapp3.1\09.SpaceMustFlow.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\obj\Debug\netcoreapp3.1\09.SpaceMustFlow.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\obj\Debug\netcoreapp3.1\09.SpaceMustFlow.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\obj\Debug\netcoreapp3.1\09.SpaceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\obj\Debug\netcoreapp3.1\09.SpaceMustFlow.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\obj\Debug\netcoreapp3.1\09.SpaceMustFlow.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\09.SpaceMustFlow\obj\Debug\netcoreapp3.1\09.SpaceMustFlow.genruntimeconfig.cache

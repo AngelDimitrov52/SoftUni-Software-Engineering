@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\bin\Debug\netcoreapp3.1\06.ExtractEmail.exe
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\bin\Debug\netcoreapp3.1\06.ExtractEmail.deps.json
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\bin\Debug\netcoreapp3.1\06.ExtractEmail.runtimeconfig.json
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\bin\Debug\netcoreapp3.1\06.ExtractEmail.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\bin\Debug\netcoreapp3.1\06.ExtractEmail.dll
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\bin\Debug\netcoreapp3.1\06.ExtractEmail.pdb
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\obj\Debug\netcoreapp3.1\06.ExtractEmail.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\obj\Debug\netcoreapp3.1\06.ExtractEmail.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\obj\Debug\netcoreapp3.1\06.ExtractEmail.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\obj\Debug\netcoreapp3.1\06.ExtractEmail.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\obj\Debug\netcoreapp3.1\06.ExtractEmail.dll
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\obj\Debug\netcoreapp3.1\06.ExtractEmail.pdb
+C:\Users\AngelPC\source\repos\RegularExpresionExe\06.ExtractEmail\obj\Debug\netcoreapp3.1\06.ExtractEmail.genruntimeconfig.cache

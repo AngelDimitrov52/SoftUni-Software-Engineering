@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\bin\Debug\netcoreapp3.1\Areas.exe
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\bin\Debug\netcoreapp3.1\Areas.deps.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\bin\Debug\netcoreapp3.1\Areas.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\bin\Debug\netcoreapp3.1\Areas.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\bin\Debug\netcoreapp3.1\Areas.dll
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\bin\Debug\netcoreapp3.1\Areas.pdb
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\obj\Debug\netcoreapp3.1\Areas.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\obj\Debug\netcoreapp3.1\Areas.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\obj\Debug\netcoreapp3.1\Areas.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\obj\Debug\netcoreapp3.1\Areas.dll
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\obj\Debug\netcoreapp3.1\Areas.pdb
+C:\Users\AngelPC\source\repos\SimpleIfElse\Areas\obj\Debug\netcoreapp3.1\Areas.genruntimeconfig.cache

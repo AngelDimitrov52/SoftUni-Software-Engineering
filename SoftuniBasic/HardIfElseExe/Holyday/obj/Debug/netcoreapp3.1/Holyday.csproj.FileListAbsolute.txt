@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\bin\Debug\netcoreapp3.1\Holyday.exe
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\bin\Debug\netcoreapp3.1\Holyday.deps.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\bin\Debug\netcoreapp3.1\Holyday.runtimeconfig.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\bin\Debug\netcoreapp3.1\Holyday.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\bin\Debug\netcoreapp3.1\Holyday.dll
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\bin\Debug\netcoreapp3.1\Holyday.pdb
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\obj\Debug\netcoreapp3.1\Holyday.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\obj\Debug\netcoreapp3.1\Holyday.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\obj\Debug\netcoreapp3.1\Holyday.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\obj\Debug\netcoreapp3.1\Holyday.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\obj\Debug\netcoreapp3.1\Holyday.dll
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\obj\Debug\netcoreapp3.1\Holyday.pdb
+C:\Users\AngelPC\source\repos\HardIfElseExe\Holyday\obj\Debug\netcoreapp3.1\Holyday.genruntimeconfig.cache

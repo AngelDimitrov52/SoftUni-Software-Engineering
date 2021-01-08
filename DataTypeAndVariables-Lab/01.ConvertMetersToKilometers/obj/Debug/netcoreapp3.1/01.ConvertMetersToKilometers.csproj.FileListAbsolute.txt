@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.exe
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.deps.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.genruntimeconfig.cache

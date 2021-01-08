@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.exe
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.deps.json
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.runtimeconfig.json
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.dll
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.pdb
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.dll
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.pdb
+C:\Users\AngelPC\source\repos\FirstSteps\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.genruntimeconfig.cache

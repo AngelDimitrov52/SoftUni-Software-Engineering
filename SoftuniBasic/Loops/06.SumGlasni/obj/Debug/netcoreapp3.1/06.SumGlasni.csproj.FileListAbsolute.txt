@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\bin\Debug\netcoreapp3.1\06.SumGlasni.exe
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\bin\Debug\netcoreapp3.1\06.SumGlasni.deps.json
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\bin\Debug\netcoreapp3.1\06.SumGlasni.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\bin\Debug\netcoreapp3.1\06.SumGlasni.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\bin\Debug\netcoreapp3.1\06.SumGlasni.dll
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\bin\Debug\netcoreapp3.1\06.SumGlasni.pdb
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\obj\Debug\netcoreapp3.1\06.SumGlasni.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\obj\Debug\netcoreapp3.1\06.SumGlasni.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\obj\Debug\netcoreapp3.1\06.SumGlasni.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\obj\Debug\netcoreapp3.1\06.SumGlasni.dll
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\obj\Debug\netcoreapp3.1\06.SumGlasni.pdb
+C:\Users\AngelPC\source\repos\Loops\06.SumGlasni\obj\Debug\netcoreapp3.1\06.SumGlasni.genruntimeconfig.cache

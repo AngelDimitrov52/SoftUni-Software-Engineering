@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\bin\Debug\netcoreapp3.1\10.OddSumEven.exe
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\bin\Debug\netcoreapp3.1\10.OddSumEven.deps.json
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\bin\Debug\netcoreapp3.1\10.OddSumEven.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\bin\Debug\netcoreapp3.1\10.OddSumEven.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\bin\Debug\netcoreapp3.1\10.OddSumEven.dll
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\bin\Debug\netcoreapp3.1\10.OddSumEven.pdb
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\obj\Debug\netcoreapp3.1\10.OddSumEven.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\obj\Debug\netcoreapp3.1\10.OddSumEven.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\obj\Debug\netcoreapp3.1\10.OddSumEven.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\obj\Debug\netcoreapp3.1\10.OddSumEven.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\obj\Debug\netcoreapp3.1\10.OddSumEven.dll
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\obj\Debug\netcoreapp3.1\10.OddSumEven.pdb
+C:\Users\AngelPC\source\repos\Loops\10.OddSumEven\obj\Debug\netcoreapp3.1\10.OddSumEven.genruntimeconfig.cache

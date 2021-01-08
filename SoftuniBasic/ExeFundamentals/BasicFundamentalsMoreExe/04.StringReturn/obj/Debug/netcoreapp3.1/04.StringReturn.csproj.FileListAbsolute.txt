@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\bin\Debug\netcoreapp3.1\04.StringReturn.exe
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\bin\Debug\netcoreapp3.1\04.StringReturn.deps.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\bin\Debug\netcoreapp3.1\04.StringReturn.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\bin\Debug\netcoreapp3.1\04.StringReturn.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\bin\Debug\netcoreapp3.1\04.StringReturn.dll
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\bin\Debug\netcoreapp3.1\04.StringReturn.pdb
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\obj\Debug\netcoreapp3.1\04.StringReturn.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\obj\Debug\netcoreapp3.1\04.StringReturn.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\obj\Debug\netcoreapp3.1\04.StringReturn.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\obj\Debug\netcoreapp3.1\04.StringReturn.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\obj\Debug\netcoreapp3.1\04.StringReturn.dll
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\obj\Debug\netcoreapp3.1\04.StringReturn.pdb
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\04.StringReturn\obj\Debug\netcoreapp3.1\04.StringReturn.genruntimeconfig.cache

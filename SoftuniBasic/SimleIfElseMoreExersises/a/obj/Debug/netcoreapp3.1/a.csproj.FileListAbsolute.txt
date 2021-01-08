@@ -1,0 +1,4 @@
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\a\obj\Debug\netcoreapp3.1\a.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\a\obj\Debug\netcoreapp3.1\a.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\a\obj\Debug\netcoreapp3.1\a.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\a\obj\Debug\netcoreapp3.1\a.AssemblyInfo.cs

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\bin\Debug\netcoreapp3.1\LargerNumber.exe
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\bin\Debug\netcoreapp3.1\LargerNumber.deps.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\bin\Debug\netcoreapp3.1\LargerNumber.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\bin\Debug\netcoreapp3.1\LargerNumber.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\bin\Debug\netcoreapp3.1\LargerNumber.dll
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\bin\Debug\netcoreapp3.1\LargerNumber.pdb
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\obj\Debug\netcoreapp3.1\LargerNumber.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\obj\Debug\netcoreapp3.1\LargerNumber.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\obj\Debug\netcoreapp3.1\LargerNumber.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\obj\Debug\netcoreapp3.1\LargerNumber.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\obj\Debug\netcoreapp3.1\LargerNumber.dll
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\obj\Debug\netcoreapp3.1\LargerNumber.pdb
+C:\Users\AngelPC\source\repos\SimpleIfElse\LargerNumber\obj\Debug\netcoreapp3.1\LargerNumber.genruntimeconfig.cache

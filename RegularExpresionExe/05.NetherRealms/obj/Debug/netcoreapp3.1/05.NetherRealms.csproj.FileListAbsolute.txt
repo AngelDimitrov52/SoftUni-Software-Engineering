@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.exe
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.deps.json
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.runtimeconfig.json
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.dll
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.pdb
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.dll
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.pdb
+C:\Users\AngelPC\source\repos\RegularExpresionExe\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.genruntimeconfig.cache

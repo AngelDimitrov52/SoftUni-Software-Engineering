@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\bin\Debug\netcoreapp3.1\FaceOfSqard.exe
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\bin\Debug\netcoreapp3.1\FaceOfSqard.deps.json
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\bin\Debug\netcoreapp3.1\FaceOfSqard.runtimeconfig.json
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\bin\Debug\netcoreapp3.1\FaceOfSqard.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\bin\Debug\netcoreapp3.1\FaceOfSqard.dll
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\bin\Debug\netcoreapp3.1\FaceOfSqard.pdb
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\obj\Debug\netcoreapp3.1\FaceOfSqard.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\obj\Debug\netcoreapp3.1\FaceOfSqard.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\obj\Debug\netcoreapp3.1\FaceOfSqard.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\obj\Debug\netcoreapp3.1\FaceOfSqard.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\obj\Debug\netcoreapp3.1\FaceOfSqard.dll
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\obj\Debug\netcoreapp3.1\FaceOfSqard.pdb
+C:\Users\AngelPC\source\repos\FaceOfSqard\FaceOfSqard\obj\Debug\netcoreapp3.1\FaceOfSqard.genruntimeconfig.cache

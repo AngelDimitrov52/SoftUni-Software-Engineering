@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\bin\Debug\netcoreapp3.1\01.SortNumber.exe
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\bin\Debug\netcoreapp3.1\01.SortNumber.deps.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\bin\Debug\netcoreapp3.1\01.SortNumber.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\bin\Debug\netcoreapp3.1\01.SortNumber.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\bin\Debug\netcoreapp3.1\01.SortNumber.dll
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\bin\Debug\netcoreapp3.1\01.SortNumber.pdb
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\obj\Debug\netcoreapp3.1\01.SortNumber.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\obj\Debug\netcoreapp3.1\01.SortNumber.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\obj\Debug\netcoreapp3.1\01.SortNumber.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\obj\Debug\netcoreapp3.1\01.SortNumber.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\obj\Debug\netcoreapp3.1\01.SortNumber.dll
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\obj\Debug\netcoreapp3.1\01.SortNumber.pdb
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\01.SortNumber\obj\Debug\netcoreapp3.1\01.SortNumber.genruntimeconfig.cache

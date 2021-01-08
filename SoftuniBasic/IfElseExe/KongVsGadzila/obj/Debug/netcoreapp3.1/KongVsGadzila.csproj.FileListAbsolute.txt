@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\bin\Debug\netcoreapp3.1\KongVsGadzila.exe
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\bin\Debug\netcoreapp3.1\KongVsGadzila.deps.json
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\bin\Debug\netcoreapp3.1\KongVsGadzila.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\bin\Debug\netcoreapp3.1\KongVsGadzila.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\bin\Debug\netcoreapp3.1\KongVsGadzila.dll
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\bin\Debug\netcoreapp3.1\KongVsGadzila.pdb
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\obj\Debug\netcoreapp3.1\KongVsGadzila.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\obj\Debug\netcoreapp3.1\KongVsGadzila.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\obj\Debug\netcoreapp3.1\KongVsGadzila.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\obj\Debug\netcoreapp3.1\KongVsGadzila.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\obj\Debug\netcoreapp3.1\KongVsGadzila.dll
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\obj\Debug\netcoreapp3.1\KongVsGadzila.pdb
+C:\Users\AngelPC\source\repos\IfElseExe\KongVsGadzila\obj\Debug\netcoreapp3.1\KongVsGadzila.genruntimeconfig.cache

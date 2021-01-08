@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\bin\Debug\netcoreapp3.1\04.SumAndDrive.exe
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\bin\Debug\netcoreapp3.1\04.SumAndDrive.deps.json
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\bin\Debug\netcoreapp3.1\04.SumAndDrive.runtimeconfig.json
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\bin\Debug\netcoreapp3.1\04.SumAndDrive.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\bin\Debug\netcoreapp3.1\04.SumAndDrive.dll
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\bin\Debug\netcoreapp3.1\04.SumAndDrive.pdb
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\obj\Debug\netcoreapp3.1\04.SumAndDrive.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\obj\Debug\netcoreapp3.1\04.SumAndDrive.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\obj\Debug\netcoreapp3.1\04.SumAndDrive.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\obj\Debug\netcoreapp3.1\04.SumAndDrive.dll
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\obj\Debug\netcoreapp3.1\04.SumAndDrive.pdb
+C:\Users\AngelPC\source\repos\WhileLoop\04.SumAndDrive\obj\Debug\netcoreapp3.1\04.SumAndDrive.genruntimeconfig.cache

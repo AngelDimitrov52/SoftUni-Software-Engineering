@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\bin\Debug\netcoreapp3.1\01.Change.exe
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\bin\Debug\netcoreapp3.1\01.Change.deps.json
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\bin\Debug\netcoreapp3.1\01.Change.runtimeconfig.json
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\bin\Debug\netcoreapp3.1\01.Change.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\bin\Debug\netcoreapp3.1\01.Change.dll
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\bin\Debug\netcoreapp3.1\01.Change.pdb
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\obj\Debug\netcoreapp3.1\01.Change.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\obj\Debug\netcoreapp3.1\01.Change.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\obj\Debug\netcoreapp3.1\01.Change.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\obj\Debug\netcoreapp3.1\01.Change.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\obj\Debug\netcoreapp3.1\01.Change.dll
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\obj\Debug\netcoreapp3.1\01.Change.pdb
+C:\Users\AngelPC\source\repos\PreparionToExamp\01.Change\obj\Debug\netcoreapp3.1\01.Change.genruntimeconfig.cache

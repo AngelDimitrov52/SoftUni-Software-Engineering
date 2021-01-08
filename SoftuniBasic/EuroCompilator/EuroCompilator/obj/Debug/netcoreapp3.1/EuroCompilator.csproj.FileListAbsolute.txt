@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\bin\Debug\netcoreapp3.1\EuroCompilator.exe
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\bin\Debug\netcoreapp3.1\EuroCompilator.deps.json
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\bin\Debug\netcoreapp3.1\EuroCompilator.runtimeconfig.json
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\bin\Debug\netcoreapp3.1\EuroCompilator.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\bin\Debug\netcoreapp3.1\EuroCompilator.dll
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\bin\Debug\netcoreapp3.1\EuroCompilator.pdb
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\obj\Debug\netcoreapp3.1\EuroCompilator.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\obj\Debug\netcoreapp3.1\EuroCompilator.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\obj\Debug\netcoreapp3.1\EuroCompilator.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\obj\Debug\netcoreapp3.1\EuroCompilator.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\obj\Debug\netcoreapp3.1\EuroCompilator.dll
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\obj\Debug\netcoreapp3.1\EuroCompilator.pdb
+C:\Users\AngelPC\source\repos\EuroCompilator\EuroCompilator\obj\Debug\netcoreapp3.1\EuroCompilator.genruntimeconfig.cache

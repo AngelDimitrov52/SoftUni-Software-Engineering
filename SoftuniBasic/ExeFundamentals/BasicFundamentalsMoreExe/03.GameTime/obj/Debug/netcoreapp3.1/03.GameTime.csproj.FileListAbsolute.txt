@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\bin\Debug\netcoreapp3.1\03.GameTime.exe
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\bin\Debug\netcoreapp3.1\03.GameTime.deps.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\bin\Debug\netcoreapp3.1\03.GameTime.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\bin\Debug\netcoreapp3.1\03.GameTime.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\bin\Debug\netcoreapp3.1\03.GameTime.dll
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\bin\Debug\netcoreapp3.1\03.GameTime.pdb
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\obj\Debug\netcoreapp3.1\03.GameTime.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\obj\Debug\netcoreapp3.1\03.GameTime.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\obj\Debug\netcoreapp3.1\03.GameTime.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\obj\Debug\netcoreapp3.1\03.GameTime.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\obj\Debug\netcoreapp3.1\03.GameTime.dll
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\obj\Debug\netcoreapp3.1\03.GameTime.pdb
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicFundamentalsMoreExe\03.GameTime\obj\Debug\netcoreapp3.1\03.GameTime.genruntimeconfig.cache

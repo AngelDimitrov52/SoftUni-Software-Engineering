@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\bin\Debug\netcoreapp3.1\UsToLeva.exe
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\bin\Debug\netcoreapp3.1\UsToLeva.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\bin\Debug\netcoreapp3.1\UsToLeva.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\bin\Debug\netcoreapp3.1\UsToLeva.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\bin\Debug\netcoreapp3.1\UsToLeva.dll
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\bin\Debug\netcoreapp3.1\UsToLeva.pdb
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\obj\Debug\netcoreapp3.1\UsToLeva.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\obj\Debug\netcoreapp3.1\UsToLeva.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\obj\Debug\netcoreapp3.1\UsToLeva.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\obj\Debug\netcoreapp3.1\UsToLeva.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\obj\Debug\netcoreapp3.1\UsToLeva.dll
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\obj\Debug\netcoreapp3.1\UsToLeva.pdb
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\UsToLeva\obj\Debug\netcoreapp3.1\UsToLeva.genruntimeconfig.cache

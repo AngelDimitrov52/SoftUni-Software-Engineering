@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\bin\Debug\netcoreapp3.1\ManMasterMiss.exe
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\bin\Debug\netcoreapp3.1\ManMasterMiss.deps.json
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\bin\Debug\netcoreapp3.1\ManMasterMiss.runtimeconfig.json
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\bin\Debug\netcoreapp3.1\ManMasterMiss.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\bin\Debug\netcoreapp3.1\ManMasterMiss.dll
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\bin\Debug\netcoreapp3.1\ManMasterMiss.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\obj\Debug\netcoreapp3.1\ManMasterMiss.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\obj\Debug\netcoreapp3.1\ManMasterMiss.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\obj\Debug\netcoreapp3.1\ManMasterMiss.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\obj\Debug\netcoreapp3.1\ManMasterMiss.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\obj\Debug\netcoreapp3.1\ManMasterMiss.dll
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\obj\Debug\netcoreapp3.1\ManMasterMiss.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\ManMasterMiss\obj\Debug\netcoreapp3.1\ManMasterMiss.genruntimeconfig.cache

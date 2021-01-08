@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplceRepeatingChars.exe
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplceRepeatingChars.deps.json
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplceRepeatingChars.runtimeconfig.json
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplceRepeatingChars.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplceRepeatingChars.dll
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplceRepeatingChars.pdb
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplceRepeatingChars.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplceRepeatingChars.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplceRepeatingChars.dll
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplceRepeatingChars.pdb
+C:\Users\AngelPC\source\repos\TextprocesingExe\06.ReplceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplceRepeatingChars.genruntimeconfig.cache

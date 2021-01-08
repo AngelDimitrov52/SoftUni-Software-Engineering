@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\bin\Debug\netcoreapp3.1\RadToDegrees.exe
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\bin\Debug\netcoreapp3.1\RadToDegrees.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\bin\Debug\netcoreapp3.1\RadToDegrees.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\bin\Debug\netcoreapp3.1\RadToDegrees.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\bin\Debug\netcoreapp3.1\RadToDegrees.dll
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\bin\Debug\netcoreapp3.1\RadToDegrees.pdb
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\obj\Debug\netcoreapp3.1\RadToDegrees.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\obj\Debug\netcoreapp3.1\RadToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\obj\Debug\netcoreapp3.1\RadToDegrees.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\obj\Debug\netcoreapp3.1\RadToDegrees.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\obj\Debug\netcoreapp3.1\RadToDegrees.dll
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\obj\Debug\netcoreapp3.1\RadToDegrees.pdb
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\RadToDegrees\obj\Debug\netcoreapp3.1\RadToDegrees.genruntimeconfig.cache

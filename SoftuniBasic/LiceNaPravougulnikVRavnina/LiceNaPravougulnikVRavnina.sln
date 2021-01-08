@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiceNaPravougulnikVRavnina", "LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina.csproj", "{410A4C95-0BCE-4ECC-8287-E1E20B6E92B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "76", "76\76.csproj", "{385ACF3C-A043-4D5F-AF5A-2E1B8EEB4190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410A4C95-0BCE-4ECC-8287-E1E20B6E92B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410A4C95-0BCE-4ECC-8287-E1E20B6E92B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410A4C95-0BCE-4ECC-8287-E1E20B6E92B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410A4C95-0BCE-4ECC-8287-E1E20B6E92B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385ACF3C-A043-4D5F-AF5A-2E1B8EEB4190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385ACF3C-A043-4D5F-AF5A-2E1B8EEB4190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385ACF3C-A043-4D5F-AF5A-2E1B8EEB4190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385ACF3C-A043-4D5F-AF5A-2E1B8EEB4190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46FBF62F-3E89-4B8E-B092-9DE03C527D37}
+	EndGlobalSection
+EndGlobal

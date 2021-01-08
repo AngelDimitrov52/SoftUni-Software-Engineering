@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\bin\Debug\netcoreapp3.1\06.Bulding.exe
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\bin\Debug\netcoreapp3.1\06.Bulding.deps.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\bin\Debug\netcoreapp3.1\06.Bulding.runtimeconfig.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\bin\Debug\netcoreapp3.1\06.Bulding.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\bin\Debug\netcoreapp3.1\06.Bulding.dll
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\bin\Debug\netcoreapp3.1\06.Bulding.pdb
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\obj\Debug\netcoreapp3.1\06.Bulding.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\obj\Debug\netcoreapp3.1\06.Bulding.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\obj\Debug\netcoreapp3.1\06.Bulding.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\obj\Debug\netcoreapp3.1\06.Bulding.dll
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\obj\Debug\netcoreapp3.1\06.Bulding.pdb
+C:\Users\AngelPC\source\repos\VlojeniCikli\06.Bulding\obj\Debug\netcoreapp3.1\06.Bulding.genruntimeconfig.cache

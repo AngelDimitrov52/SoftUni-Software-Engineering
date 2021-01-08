@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\bin\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.exe
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\bin\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.deps.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\bin\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.runtimeconfig.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\bin\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\bin\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\bin\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\obj\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\obj\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\obj\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\obj\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\obj\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariales-Exe\06.TriapleOfLatinLetter\obj\Debug\netcoreapp3.1\06.TriapleOfLatinLetter.genruntimeconfig.cache

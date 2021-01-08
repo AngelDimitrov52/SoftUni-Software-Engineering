@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\bin\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.exe
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\bin\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.deps.json
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\bin\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.runtimeconfig.json
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\bin\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\bin\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.dll
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\bin\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.pdb
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\obj\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\obj\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\obj\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\obj\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\obj\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.dll
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\obj\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.pdb
+C:\Users\AngelPC\source\repos\NastyLoopExe\02.SumOfTwoSimpleNumber\obj\Debug\netcoreapp3.1\02.SumOfTwoSimpleNumber.genruntimeconfig.cache

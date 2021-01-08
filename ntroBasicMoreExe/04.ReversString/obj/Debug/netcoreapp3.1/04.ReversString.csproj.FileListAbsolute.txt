@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\bin\Debug\netcoreapp3.1\04.ReversString.exe
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\bin\Debug\netcoreapp3.1\04.ReversString.deps.json
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\bin\Debug\netcoreapp3.1\04.ReversString.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\bin\Debug\netcoreapp3.1\04.ReversString.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\bin\Debug\netcoreapp3.1\04.ReversString.dll
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\bin\Debug\netcoreapp3.1\04.ReversString.pdb
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\obj\Debug\netcoreapp3.1\04.ReversString.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\obj\Debug\netcoreapp3.1\04.ReversString.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\obj\Debug\netcoreapp3.1\04.ReversString.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\obj\Debug\netcoreapp3.1\04.ReversString.dll
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\obj\Debug\netcoreapp3.1\04.ReversString.pdb
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\04.ReversString\obj\Debug\netcoreapp3.1\04.ReversString.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\bin\Debug\netcoreapp3.1\04.PrimeCheck.exe
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\bin\Debug\netcoreapp3.1\04.PrimeCheck.deps.json
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\bin\Debug\netcoreapp3.1\04.PrimeCheck.runtimeconfig.json
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\bin\Debug\netcoreapp3.1\04.PrimeCheck.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\bin\Debug\netcoreapp3.1\04.PrimeCheck.dll
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\bin\Debug\netcoreapp3.1\04.PrimeCheck.pdb
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\obj\Debug\netcoreapp3.1\04.PrimeCheck.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\obj\Debug\netcoreapp3.1\04.PrimeCheck.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\obj\Debug\netcoreapp3.1\04.PrimeCheck.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\obj\Debug\netcoreapp3.1\04.PrimeCheck.dll
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\obj\Debug\netcoreapp3.1\04.PrimeCheck.pdb
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\04.PrimeCheck\obj\Debug\netcoreapp3.1\04.PrimeCheck.genruntimeconfig.cache

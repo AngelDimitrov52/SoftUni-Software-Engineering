@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\bin\Debug\netcoreapp3.1\01.First.exe
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\bin\Debug\netcoreapp3.1\01.First.deps.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\bin\Debug\netcoreapp3.1\01.First.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\bin\Debug\netcoreapp3.1\01.First.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\bin\Debug\netcoreapp3.1\01.First.dll
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\bin\Debug\netcoreapp3.1\01.First.pdb
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\obj\Debug\netcoreapp3.1\01.First.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\obj\Debug\netcoreapp3.1\01.First.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\obj\Debug\netcoreapp3.1\01.First.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\obj\Debug\netcoreapp3.1\01.First.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\obj\Debug\netcoreapp3.1\01.First.dll
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\obj\Debug\netcoreapp3.1\01.First.pdb
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\01.First\obj\Debug\netcoreapp3.1\01.First.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\bin\Debug\netcoreapp3.1\AreaOfSqart.exe
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\bin\Debug\netcoreapp3.1\AreaOfSqart.deps.json
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\bin\Debug\netcoreapp3.1\AreaOfSqart.runtimeconfig.json
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\bin\Debug\netcoreapp3.1\AreaOfSqart.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\bin\Debug\netcoreapp3.1\AreaOfSqart.dll
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\bin\Debug\netcoreapp3.1\AreaOfSqart.pdb
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\obj\Debug\netcoreapp3.1\AreaOfSqart.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\obj\Debug\netcoreapp3.1\AreaOfSqart.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\obj\Debug\netcoreapp3.1\AreaOfSqart.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\obj\Debug\netcoreapp3.1\AreaOfSqart.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\obj\Debug\netcoreapp3.1\AreaOfSqart.dll
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\obj\Debug\netcoreapp3.1\AreaOfSqart.pdb
+C:\Users\AngelPC\source\repos\AreaOfSqart\AreaOfSqart\obj\Debug\netcoreapp3.1\AreaOfSqart.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.exe
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.deps.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.genruntimeconfig.cache

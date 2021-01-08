@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\bin\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.exe
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\bin\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.deps.json
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\bin\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.runtimeconfig.json
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\bin\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\bin\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.dll
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\bin\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.pdb
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\obj\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\obj\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\obj\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\obj\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\obj\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.dll
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\obj\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.pdb
+C:\Users\AngelPC\source\repos\LiceNaPravougulnikVRavnina\LiceNaPravougulnikVRavnina\obj\Debug\netcoreapp3.1\LiceNaPravougulnikVRavnina.genruntimeconfig.cache

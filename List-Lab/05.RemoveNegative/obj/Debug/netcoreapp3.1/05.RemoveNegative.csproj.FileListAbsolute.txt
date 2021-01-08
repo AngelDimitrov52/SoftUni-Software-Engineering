@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\bin\Debug\netcoreapp3.1\05.RemoveNegative.exe
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\bin\Debug\netcoreapp3.1\05.RemoveNegative.deps.json
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\bin\Debug\netcoreapp3.1\05.RemoveNegative.runtimeconfig.json
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\bin\Debug\netcoreapp3.1\05.RemoveNegative.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\bin\Debug\netcoreapp3.1\05.RemoveNegative.dll
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\bin\Debug\netcoreapp3.1\05.RemoveNegative.pdb
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\obj\Debug\netcoreapp3.1\05.RemoveNegative.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\obj\Debug\netcoreapp3.1\05.RemoveNegative.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\obj\Debug\netcoreapp3.1\05.RemoveNegative.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\obj\Debug\netcoreapp3.1\05.RemoveNegative.dll
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\obj\Debug\netcoreapp3.1\05.RemoveNegative.pdb
+C:\Users\AngelPC\source\repos\List-Lab\05.RemoveNegative\obj\Debug\netcoreapp3.1\05.RemoveNegative.genruntimeconfig.cache

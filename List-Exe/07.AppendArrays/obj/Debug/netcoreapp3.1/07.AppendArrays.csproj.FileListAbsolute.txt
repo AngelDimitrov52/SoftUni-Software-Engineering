@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.exe
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.deps.json
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.runtimeconfig.json
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.dll
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.pdb
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.dll
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.pdb
+C:\Users\AngelPC\source\repos\List-Exe\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\bin\Debug\netcoreapp3.1\03.EvenOdd.exe
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\bin\Debug\netcoreapp3.1\03.EvenOdd.deps.json
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\bin\Debug\netcoreapp3.1\03.EvenOdd.runtimeconfig.json
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\bin\Debug\netcoreapp3.1\03.EvenOdd.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\bin\Debug\netcoreapp3.1\03.EvenOdd.dll
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\bin\Debug\netcoreapp3.1\03.EvenOdd.pdb
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\obj\Debug\netcoreapp3.1\03.EvenOdd.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\obj\Debug\netcoreapp3.1\03.EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\obj\Debug\netcoreapp3.1\03.EvenOdd.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\obj\Debug\netcoreapp3.1\03.EvenOdd.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\obj\Debug\netcoreapp3.1\03.EvenOdd.dll
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\obj\Debug\netcoreapp3.1\03.EvenOdd.pdb
+C:\Users\AngelPC\source\repos\LoopsExe\03.EvenOdd\obj\Debug\netcoreapp3.1\03.EvenOdd.genruntimeconfig.cache

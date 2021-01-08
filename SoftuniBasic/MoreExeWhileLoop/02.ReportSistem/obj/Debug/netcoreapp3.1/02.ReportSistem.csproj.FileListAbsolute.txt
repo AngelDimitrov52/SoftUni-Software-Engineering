@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\bin\Debug\netcoreapp3.1\02.ReportSistem.exe
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\bin\Debug\netcoreapp3.1\02.ReportSistem.deps.json
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\bin\Debug\netcoreapp3.1\02.ReportSistem.runtimeconfig.json
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\bin\Debug\netcoreapp3.1\02.ReportSistem.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\bin\Debug\netcoreapp3.1\02.ReportSistem.dll
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\bin\Debug\netcoreapp3.1\02.ReportSistem.pdb
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\obj\Debug\netcoreapp3.1\02.ReportSistem.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\obj\Debug\netcoreapp3.1\02.ReportSistem.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\obj\Debug\netcoreapp3.1\02.ReportSistem.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\obj\Debug\netcoreapp3.1\02.ReportSistem.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\obj\Debug\netcoreapp3.1\02.ReportSistem.dll
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\obj\Debug\netcoreapp3.1\02.ReportSistem.pdb
+C:\Users\AngelPC\source\repos\MoreExeWhileLoop\02.ReportSistem\obj\Debug\netcoreapp3.1\02.ReportSistem.genruntimeconfig.cache

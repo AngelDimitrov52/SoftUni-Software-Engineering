@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\bin\Debug\netcoreapp3.1\Time+15.exe
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\bin\Debug\netcoreapp3.1\Time+15.deps.json
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\bin\Debug\netcoreapp3.1\Time+15.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\bin\Debug\netcoreapp3.1\Time+15.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\bin\Debug\netcoreapp3.1\Time+15.dll
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\bin\Debug\netcoreapp3.1\Time+15.pdb
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\obj\Debug\netcoreapp3.1\Time+15.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\obj\Debug\netcoreapp3.1\Time+15.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\obj\Debug\netcoreapp3.1\Time+15.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\obj\Debug\netcoreapp3.1\Time+15.dll
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\obj\Debug\netcoreapp3.1\Time+15.pdb
+C:\Users\AngelPC\source\repos\IfElseExe\Time+15\obj\Debug\netcoreapp3.1\Time+15.genruntimeconfig.cache

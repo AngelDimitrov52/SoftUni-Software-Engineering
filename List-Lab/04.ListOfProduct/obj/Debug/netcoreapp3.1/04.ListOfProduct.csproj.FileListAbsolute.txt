@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\bin\Debug\netcoreapp3.1\04.ListOfProduct.exe
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\bin\Debug\netcoreapp3.1\04.ListOfProduct.deps.json
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\bin\Debug\netcoreapp3.1\04.ListOfProduct.runtimeconfig.json
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\bin\Debug\netcoreapp3.1\04.ListOfProduct.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\bin\Debug\netcoreapp3.1\04.ListOfProduct.dll
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\bin\Debug\netcoreapp3.1\04.ListOfProduct.pdb
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\obj\Debug\netcoreapp3.1\04.ListOfProduct.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\obj\Debug\netcoreapp3.1\04.ListOfProduct.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\obj\Debug\netcoreapp3.1\04.ListOfProduct.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\obj\Debug\netcoreapp3.1\04.ListOfProduct.dll
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\obj\Debug\netcoreapp3.1\04.ListOfProduct.pdb
+C:\Users\AngelPC\source\repos\List-Lab\04.ListOfProduct\obj\Debug\netcoreapp3.1\04.ListOfProduct.genruntimeconfig.cache

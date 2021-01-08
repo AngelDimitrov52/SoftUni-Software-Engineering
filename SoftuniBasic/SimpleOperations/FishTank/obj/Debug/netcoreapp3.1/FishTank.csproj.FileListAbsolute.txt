@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\bin\Debug\netcoreapp3.1\FishTank.exe
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\bin\Debug\netcoreapp3.1\FishTank.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\bin\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\bin\Debug\netcoreapp3.1\FishTank.pdb
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\obj\Debug\netcoreapp3.1\FishTank.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\obj\Debug\netcoreapp3.1\FishTank.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\obj\Debug\netcoreapp3.1\FishTank.dll
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\obj\Debug\netcoreapp3.1\FishTank.pdb
+C:\Users\AngelPC\source\repos\SimpleOperations\FishTank\obj\Debug\netcoreapp3.1\FishTank.genruntimeconfig.cache

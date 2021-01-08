@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\bin\Debug\netcoreapp3.1\04.PrintTrangle.exe
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\bin\Debug\netcoreapp3.1\04.PrintTrangle.deps.json
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\bin\Debug\netcoreapp3.1\04.PrintTrangle.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\bin\Debug\netcoreapp3.1\04.PrintTrangle.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\bin\Debug\netcoreapp3.1\04.PrintTrangle.dll
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\bin\Debug\netcoreapp3.1\04.PrintTrangle.pdb
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\obj\Debug\netcoreapp3.1\04.PrintTrangle.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\obj\Debug\netcoreapp3.1\04.PrintTrangle.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\obj\Debug\netcoreapp3.1\04.PrintTrangle.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\obj\Debug\netcoreapp3.1\04.PrintTrangle.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\obj\Debug\netcoreapp3.1\04.PrintTrangle.dll
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\obj\Debug\netcoreapp3.1\04.PrintTrangle.pdb
+C:\Users\AngelPC\source\repos\Metods-Lab\04.PrintTrangle\obj\Debug\netcoreapp3.1\04.PrintTrangle.genruntimeconfig.cache

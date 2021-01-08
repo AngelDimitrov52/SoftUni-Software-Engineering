@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\obj\Debug\netcoreapp3.1\06.Language.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\obj\Debug\netcoreapp3.1\06.Language.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\obj\Debug\netcoreapp3.1\06.Language.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\bin\Debug\netcoreapp3.1\06.Language.exe
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\bin\Debug\netcoreapp3.1\06.Language.deps.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\bin\Debug\netcoreapp3.1\06.Language.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\bin\Debug\netcoreapp3.1\06.Language.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\bin\Debug\netcoreapp3.1\06.Language.dll
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\bin\Debug\netcoreapp3.1\06.Language.pdb
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\obj\Debug\netcoreapp3.1\06.Language.dll
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\obj\Debug\netcoreapp3.1\06.Language.pdb
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\06.Language\obj\Debug\netcoreapp3.1\06.Language.genruntimeconfig.cache

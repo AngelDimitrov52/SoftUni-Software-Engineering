@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\bin\Debug\netcoreapp3.1\InchesInSamnimeters.exe
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\bin\Debug\netcoreapp3.1\InchesInSamnimeters.deps.json
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\bin\Debug\netcoreapp3.1\InchesInSamnimeters.runtimeconfig.json
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\bin\Debug\netcoreapp3.1\InchesInSamnimeters.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\bin\Debug\netcoreapp3.1\InchesInSamnimeters.dll
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\bin\Debug\netcoreapp3.1\InchesInSamnimeters.pdb
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\obj\Debug\netcoreapp3.1\InchesInSamnimeters.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\obj\Debug\netcoreapp3.1\InchesInSamnimeters.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\obj\Debug\netcoreapp3.1\InchesInSamnimeters.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\obj\Debug\netcoreapp3.1\InchesInSamnimeters.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\obj\Debug\netcoreapp3.1\InchesInSamnimeters.dll
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\obj\Debug\netcoreapp3.1\InchesInSamnimeters.pdb
+C:\Users\AngelPC\source\repos\InchesInSamnimeters\InchesInSamnimeters\obj\Debug\netcoreapp3.1\InchesInSamnimeters.genruntimeconfig.cache

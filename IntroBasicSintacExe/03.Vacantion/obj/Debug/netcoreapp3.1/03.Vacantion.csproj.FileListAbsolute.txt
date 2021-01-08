@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.exe
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.deps.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.dll
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.pdb
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.dll
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.pdb
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.genruntimeconfig.cache

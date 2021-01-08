@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\bin\Debug\netcoreapp3.1\02ZadachaDve.exe
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\bin\Debug\netcoreapp3.1\02ZadachaDve.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\bin\Debug\netcoreapp3.1\02ZadachaDve.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\bin\Debug\netcoreapp3.1\02ZadachaDve.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\bin\Debug\netcoreapp3.1\02ZadachaDve.dll
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\bin\Debug\netcoreapp3.1\02ZadachaDve.pdb
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\obj\Debug\netcoreapp3.1\02ZadachaDve.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\obj\Debug\netcoreapp3.1\02ZadachaDve.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\obj\Debug\netcoreapp3.1\02ZadachaDve.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\obj\Debug\netcoreapp3.1\02ZadachaDve.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\obj\Debug\netcoreapp3.1\02ZadachaDve.dll
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\obj\Debug\netcoreapp3.1\02ZadachaDve.pdb
+C:\Users\AngelPC\source\repos\SimpleOperations\02ZadachaDve\obj\Debug\netcoreapp3.1\02ZadachaDve.genruntimeconfig.cache

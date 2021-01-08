@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\bin\Debug\netcoreapp3.1\03.MathDates.exe
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\bin\Debug\netcoreapp3.1\03.MathDates.deps.json
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\bin\Debug\netcoreapp3.1\03.MathDates.runtimeconfig.json
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\bin\Debug\netcoreapp3.1\03.MathDates.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\bin\Debug\netcoreapp3.1\03.MathDates.dll
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\bin\Debug\netcoreapp3.1\03.MathDates.pdb
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\obj\Debug\netcoreapp3.1\03.MathDates.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\obj\Debug\netcoreapp3.1\03.MathDates.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\obj\Debug\netcoreapp3.1\03.MathDates.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\obj\Debug\netcoreapp3.1\03.MathDates.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\obj\Debug\netcoreapp3.1\03.MathDates.dll
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\obj\Debug\netcoreapp3.1\03.MathDates.pdb
+C:\Users\AngelPC\source\repos\RegularExtresionLab\03.MathDates\obj\Debug\netcoreapp3.1\03.MathDates.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\bin\Debug\netcoreapp3.1\04.CeaserCipher.exe
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\bin\Debug\netcoreapp3.1\04.CeaserCipher.deps.json
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\bin\Debug\netcoreapp3.1\04.CeaserCipher.runtimeconfig.json
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\bin\Debug\netcoreapp3.1\04.CeaserCipher.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\bin\Debug\netcoreapp3.1\04.CeaserCipher.dll
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\bin\Debug\netcoreapp3.1\04.CeaserCipher.pdb
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\obj\Debug\netcoreapp3.1\04.CeaserCipher.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\obj\Debug\netcoreapp3.1\04.CeaserCipher.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\obj\Debug\netcoreapp3.1\04.CeaserCipher.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\obj\Debug\netcoreapp3.1\04.CeaserCipher.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\obj\Debug\netcoreapp3.1\04.CeaserCipher.dll
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\obj\Debug\netcoreapp3.1\04.CeaserCipher.pdb
+C:\Users\AngelPC\source\repos\TextprocesingExe\04.CeaserCipher\obj\Debug\netcoreapp3.1\04.CeaserCipher.genruntimeconfig.cache

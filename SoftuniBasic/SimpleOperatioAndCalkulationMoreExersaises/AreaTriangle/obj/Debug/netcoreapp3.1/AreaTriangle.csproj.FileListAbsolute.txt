@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\bin\Debug\netcoreapp3.1\AreaTriangle.exe
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\bin\Debug\netcoreapp3.1\AreaTriangle.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\bin\Debug\netcoreapp3.1\AreaTriangle.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\bin\Debug\netcoreapp3.1\AreaTriangle.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\bin\Debug\netcoreapp3.1\AreaTriangle.dll
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\bin\Debug\netcoreapp3.1\AreaTriangle.pdb
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\obj\Debug\netcoreapp3.1\AreaTriangle.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\obj\Debug\netcoreapp3.1\AreaTriangle.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\obj\Debug\netcoreapp3.1\AreaTriangle.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\obj\Debug\netcoreapp3.1\AreaTriangle.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\obj\Debug\netcoreapp3.1\AreaTriangle.dll
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\obj\Debug\netcoreapp3.1\AreaTriangle.pdb
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\AreaTriangle\obj\Debug\netcoreapp3.1\AreaTriangle.genruntimeconfig.cache

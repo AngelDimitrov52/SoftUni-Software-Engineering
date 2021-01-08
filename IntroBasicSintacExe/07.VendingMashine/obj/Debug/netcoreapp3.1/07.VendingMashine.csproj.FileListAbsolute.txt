@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\bin\Debug\netcoreapp3.1\07.VendingMashine.exe
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\bin\Debug\netcoreapp3.1\07.VendingMashine.deps.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\bin\Debug\netcoreapp3.1\07.VendingMashine.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\bin\Debug\netcoreapp3.1\07.VendingMashine.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\bin\Debug\netcoreapp3.1\07.VendingMashine.dll
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\bin\Debug\netcoreapp3.1\07.VendingMashine.pdb
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\obj\Debug\netcoreapp3.1\07.VendingMashine.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\obj\Debug\netcoreapp3.1\07.VendingMashine.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\obj\Debug\netcoreapp3.1\07.VendingMashine.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\obj\Debug\netcoreapp3.1\07.VendingMashine.dll
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\obj\Debug\netcoreapp3.1\07.VendingMashine.pdb
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\obj\Debug\netcoreapp3.1\07.VendingMashine.genruntimeconfig.cache
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\07.VendingMashine\obj\Debug\netcoreapp3.1\07.VendingMashine.csprojAssemblyReference.cache

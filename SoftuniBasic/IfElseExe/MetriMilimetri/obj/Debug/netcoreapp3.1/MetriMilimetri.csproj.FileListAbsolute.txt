@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\bin\Debug\netcoreapp3.1\MetriMilimetri.exe
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\bin\Debug\netcoreapp3.1\MetriMilimetri.deps.json
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\bin\Debug\netcoreapp3.1\MetriMilimetri.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\bin\Debug\netcoreapp3.1\MetriMilimetri.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\bin\Debug\netcoreapp3.1\MetriMilimetri.dll
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\bin\Debug\netcoreapp3.1\MetriMilimetri.pdb
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\obj\Debug\netcoreapp3.1\MetriMilimetri.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\obj\Debug\netcoreapp3.1\MetriMilimetri.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\obj\Debug\netcoreapp3.1\MetriMilimetri.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\obj\Debug\netcoreapp3.1\MetriMilimetri.dll
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\obj\Debug\netcoreapp3.1\MetriMilimetri.pdb
+C:\Users\AngelPC\source\repos\IfElseExe\MetriMilimetri\obj\Debug\netcoreapp3.1\MetriMilimetri.genruntimeconfig.cache

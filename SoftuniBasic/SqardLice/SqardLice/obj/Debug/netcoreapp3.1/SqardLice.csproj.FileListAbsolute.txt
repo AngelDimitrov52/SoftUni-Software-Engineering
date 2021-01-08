@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\obj\Debug\netcoreapp3.1\SqardLice.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\obj\Debug\netcoreapp3.1\SqardLice.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\obj\Debug\netcoreapp3.1\SqardLice.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\obj\Debug\netcoreapp3.1\SqardLice.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\bin\Debug\netcoreapp3.1\SqardLice.exe
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\bin\Debug\netcoreapp3.1\SqardLice.deps.json
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\bin\Debug\netcoreapp3.1\SqardLice.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\bin\Debug\netcoreapp3.1\SqardLice.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\bin\Debug\netcoreapp3.1\SqardLice.dll
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\bin\Debug\netcoreapp3.1\SqardLice.pdb
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\obj\Debug\netcoreapp3.1\SqardLice.dll
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\obj\Debug\netcoreapp3.1\SqardLice.pdb
+C:\Users\AngelPC\source\repos\SqardLice\SqardLice\obj\Debug\netcoreapp3.1\SqardLice.genruntimeconfig.cache

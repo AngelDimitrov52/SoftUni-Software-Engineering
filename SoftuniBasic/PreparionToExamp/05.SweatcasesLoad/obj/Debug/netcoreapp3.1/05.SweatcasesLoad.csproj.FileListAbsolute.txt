@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\bin\Debug\netcoreapp3.1\05.SweatcasesLoad.exe
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\bin\Debug\netcoreapp3.1\05.SweatcasesLoad.deps.json
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\bin\Debug\netcoreapp3.1\05.SweatcasesLoad.runtimeconfig.json
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\bin\Debug\netcoreapp3.1\05.SweatcasesLoad.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\bin\Debug\netcoreapp3.1\05.SweatcasesLoad.dll
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\bin\Debug\netcoreapp3.1\05.SweatcasesLoad.pdb
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\obj\Debug\netcoreapp3.1\05.SweatcasesLoad.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\obj\Debug\netcoreapp3.1\05.SweatcasesLoad.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\obj\Debug\netcoreapp3.1\05.SweatcasesLoad.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\obj\Debug\netcoreapp3.1\05.SweatcasesLoad.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\obj\Debug\netcoreapp3.1\05.SweatcasesLoad.dll
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\obj\Debug\netcoreapp3.1\05.SweatcasesLoad.pdb
+C:\Users\AngelPC\source\repos\PreparionToExamp\05.SweatcasesLoad\obj\Debug\netcoreapp3.1\05.SweatcasesLoad.genruntimeconfig.cache

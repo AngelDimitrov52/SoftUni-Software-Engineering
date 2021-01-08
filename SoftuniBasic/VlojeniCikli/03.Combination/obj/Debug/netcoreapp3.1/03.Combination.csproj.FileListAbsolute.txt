@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\bin\Debug\netcoreapp3.1\03.Combination.exe
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\bin\Debug\netcoreapp3.1\03.Combination.deps.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\bin\Debug\netcoreapp3.1\03.Combination.runtimeconfig.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\bin\Debug\netcoreapp3.1\03.Combination.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\bin\Debug\netcoreapp3.1\03.Combination.dll
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\bin\Debug\netcoreapp3.1\03.Combination.pdb
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\obj\Debug\netcoreapp3.1\03.Combination.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\obj\Debug\netcoreapp3.1\03.Combination.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\obj\Debug\netcoreapp3.1\03.Combination.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\obj\Debug\netcoreapp3.1\03.Combination.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\obj\Debug\netcoreapp3.1\03.Combination.dll
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\obj\Debug\netcoreapp3.1\03.Combination.pdb
+C:\Users\AngelPC\source\repos\VlojeniCikli\03.Combination\obj\Debug\netcoreapp3.1\03.Combination.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.exe
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.deps.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.dll
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.dll
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.genruntimeconfig.cache

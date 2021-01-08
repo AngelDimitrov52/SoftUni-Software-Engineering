@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\obj\Debug\netcoreapp3.1\06.ListManipolatorBasic.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\obj\Debug\netcoreapp3.1\06.ListManipolatorBasic.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\obj\Debug\netcoreapp3.1\06.ListManipolatorBasic.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\obj\Debug\netcoreapp3.1\06.ListManipolatorBasic.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\bin\Debug\netcoreapp3.1\06.ListManipolatorBasic.exe
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\bin\Debug\netcoreapp3.1\06.ListManipolatorBasic.deps.json
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\bin\Debug\netcoreapp3.1\06.ListManipolatorBasic.runtimeconfig.json
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\bin\Debug\netcoreapp3.1\06.ListManipolatorBasic.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\bin\Debug\netcoreapp3.1\06.ListManipolatorBasic.dll
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\bin\Debug\netcoreapp3.1\06.ListManipolatorBasic.pdb
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\obj\Debug\netcoreapp3.1\06.ListManipolatorBasic.dll
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\obj\Debug\netcoreapp3.1\06.ListManipolatorBasic.pdb
+C:\Users\AngelPC\source\repos\List-Lab\06.ListManipolatorBasic\obj\Debug\netcoreapp3.1\06.ListManipolatorBasic.genruntimeconfig.cache

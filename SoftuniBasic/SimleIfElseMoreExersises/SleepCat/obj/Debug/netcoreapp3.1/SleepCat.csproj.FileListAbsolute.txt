@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\bin\Debug\netcoreapp3.1\SleepCat.exe
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\bin\Debug\netcoreapp3.1\SleepCat.deps.json
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\bin\Debug\netcoreapp3.1\SleepCat.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\bin\Debug\netcoreapp3.1\SleepCat.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\bin\Debug\netcoreapp3.1\SleepCat.dll
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\bin\Debug\netcoreapp3.1\SleepCat.pdb
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\obj\Debug\netcoreapp3.1\SleepCat.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\obj\Debug\netcoreapp3.1\SleepCat.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\obj\Debug\netcoreapp3.1\SleepCat.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\obj\Debug\netcoreapp3.1\SleepCat.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\obj\Debug\netcoreapp3.1\SleepCat.dll
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\obj\Debug\netcoreapp3.1\SleepCat.pdb
+C:\Users\AngelPC\source\repos\SimleIfElseMoreExersises\SleepCat\obj\Debug\netcoreapp3.1\SleepCat.genruntimeconfig.cache

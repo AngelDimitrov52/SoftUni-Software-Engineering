@@ -1,0 +1,10 @@
+C:\Users\AngelPC\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\AngelPC\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\AngelPC\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\AngelPC\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\AngelPC\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\AngelPC\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\AngelPC\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\AngelPC\source\repos\Calculator\Calculator\obj\Debug\Calculator.FormCalculate.resources

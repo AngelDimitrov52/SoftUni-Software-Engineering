@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\HardIfElse\Days\bin\Debug\netcoreapp3.1\Days.exe
+C:\Users\AngelPC\source\repos\HardIfElse\Days\bin\Debug\netcoreapp3.1\Days.deps.json
+C:\Users\AngelPC\source\repos\HardIfElse\Days\bin\Debug\netcoreapp3.1\Days.runtimeconfig.json
+C:\Users\AngelPC\source\repos\HardIfElse\Days\bin\Debug\netcoreapp3.1\Days.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\HardIfElse\Days\bin\Debug\netcoreapp3.1\Days.dll
+C:\Users\AngelPC\source\repos\HardIfElse\Days\bin\Debug\netcoreapp3.1\Days.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\Days\obj\Debug\netcoreapp3.1\Days.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\HardIfElse\Days\obj\Debug\netcoreapp3.1\Days.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\Days\obj\Debug\netcoreapp3.1\Days.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\Days\obj\Debug\netcoreapp3.1\Days.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\HardIfElse\Days\obj\Debug\netcoreapp3.1\Days.dll
+C:\Users\AngelPC\source\repos\HardIfElse\Days\obj\Debug\netcoreapp3.1\Days.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\Days\obj\Debug\netcoreapp3.1\Days.genruntimeconfig.cache

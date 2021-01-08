@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\bin\Debug\netcoreapp3.1\SewingWorkshop.exe
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\bin\Debug\netcoreapp3.1\SewingWorkshop.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\bin\Debug\netcoreapp3.1\SewingWorkshop.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\bin\Debug\netcoreapp3.1\SewingWorkshop.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\bin\Debug\netcoreapp3.1\SewingWorkshop.dll
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\bin\Debug\netcoreapp3.1\SewingWorkshop.pdb
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\obj\Debug\netcoreapp3.1\SewingWorkshop.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\obj\Debug\netcoreapp3.1\SewingWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\obj\Debug\netcoreapp3.1\SewingWorkshop.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\obj\Debug\netcoreapp3.1\SewingWorkshop.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\obj\Debug\netcoreapp3.1\SewingWorkshop.dll
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\obj\Debug\netcoreapp3.1\SewingWorkshop.pdb
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\SewingWorkshop\obj\Debug\netcoreapp3.1\SewingWorkshop.genruntimeconfig.cache

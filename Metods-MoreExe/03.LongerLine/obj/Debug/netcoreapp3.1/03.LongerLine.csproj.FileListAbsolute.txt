@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.exe
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.deps.json
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.dll
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.pdb
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.dll
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.pdb
+C:\Users\AngelPC\source\repos\Metods-MoreExe\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.genruntimeconfig.cache

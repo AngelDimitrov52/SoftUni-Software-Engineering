@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\bin\Debug\netcoreapp3.1\09.SumOfOddNumber.exe
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\bin\Debug\netcoreapp3.1\09.SumOfOddNumber.deps.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\bin\Debug\netcoreapp3.1\09.SumOfOddNumber.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\bin\Debug\netcoreapp3.1\09.SumOfOddNumber.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\bin\Debug\netcoreapp3.1\09.SumOfOddNumber.dll
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\bin\Debug\netcoreapp3.1\09.SumOfOddNumber.pdb
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\obj\Debug\netcoreapp3.1\09.SumOfOddNumber.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\obj\Debug\netcoreapp3.1\09.SumOfOddNumber.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\obj\Debug\netcoreapp3.1\09.SumOfOddNumber.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\obj\Debug\netcoreapp3.1\09.SumOfOddNumber.dll
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\obj\Debug\netcoreapp3.1\09.SumOfOddNumber.pdb
+C:\Users\AngelPC\source\repos\ExeFundamentals\BasicMode\09.SumOfOddNumber\obj\Debug\netcoreapp3.1\09.SumOfOddNumber.genruntimeconfig.cache

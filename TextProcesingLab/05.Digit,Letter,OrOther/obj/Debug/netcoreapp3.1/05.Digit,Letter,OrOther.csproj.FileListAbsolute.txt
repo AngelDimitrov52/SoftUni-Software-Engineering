@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\bin\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.exe
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\bin\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.deps.json
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\bin\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.runtimeconfig.json
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\bin\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\bin\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.dll
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\bin\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.pdb
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\obj\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\obj\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\obj\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\obj\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.dll
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\obj\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.pdb
+C:\Users\AngelPC\source\repos\TextProcesingLab\05.Digit,Letter,OrOther\obj\Debug\netcoreapp3.1\05.Digit,Letter,OrOther.genruntimeconfig.cache

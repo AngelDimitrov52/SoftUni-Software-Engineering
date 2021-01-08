@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\bin\Debug\netcoreapp3.1\01.OldBook.exe
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\bin\Debug\netcoreapp3.1\01.OldBook.deps.json
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\bin\Debug\netcoreapp3.1\01.OldBook.runtimeconfig.json
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\bin\Debug\netcoreapp3.1\01.OldBook.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\bin\Debug\netcoreapp3.1\01.OldBook.dll
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\bin\Debug\netcoreapp3.1\01.OldBook.pdb
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\obj\Debug\netcoreapp3.1\01.OldBook.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\obj\Debug\netcoreapp3.1\01.OldBook.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\obj\Debug\netcoreapp3.1\01.OldBook.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\obj\Debug\netcoreapp3.1\01.OldBook.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\obj\Debug\netcoreapp3.1\01.OldBook.dll
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\obj\Debug\netcoreapp3.1\01.OldBook.pdb
+C:\Users\AngelPC\source\repos\WhieLoopExe\01.OldBook\obj\Debug\netcoreapp3.1\01.OldBook.genruntimeconfig.cache

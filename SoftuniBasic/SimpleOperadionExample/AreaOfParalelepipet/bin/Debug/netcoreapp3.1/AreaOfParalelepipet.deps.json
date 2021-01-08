@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AreaOfParalelepipet/1.0.0": {
+        "runtime": {
+          "AreaOfParalelepipet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaOfParalelepipet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

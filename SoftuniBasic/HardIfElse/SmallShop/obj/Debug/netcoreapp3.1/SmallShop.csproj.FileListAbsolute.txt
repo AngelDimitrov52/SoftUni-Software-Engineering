@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.exe
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.deps.json
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.json
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.dll
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.dll
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.genruntimeconfig.cache
+C:\Users\AngelPC\source\repos\HardIfElse\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\zad\zad\bin\Debug\netcoreapp3.1\zad.exe
+C:\Users\AngelPC\source\repos\zad\zad\bin\Debug\netcoreapp3.1\zad.deps.json
+C:\Users\AngelPC\source\repos\zad\zad\bin\Debug\netcoreapp3.1\zad.runtimeconfig.json
+C:\Users\AngelPC\source\repos\zad\zad\bin\Debug\netcoreapp3.1\zad.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\zad\zad\bin\Debug\netcoreapp3.1\zad.dll
+C:\Users\AngelPC\source\repos\zad\zad\bin\Debug\netcoreapp3.1\zad.pdb
+C:\Users\AngelPC\source\repos\zad\zad\obj\Debug\netcoreapp3.1\zad.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\zad\zad\obj\Debug\netcoreapp3.1\zad.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\zad\zad\obj\Debug\netcoreapp3.1\zad.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\zad\zad\obj\Debug\netcoreapp3.1\zad.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\zad\zad\obj\Debug\netcoreapp3.1\zad.dll
+C:\Users\AngelPC\source\repos\zad\zad\obj\Debug\netcoreapp3.1\zad.pdb
+C:\Users\AngelPC\source\repos\zad\zad\obj\Debug\netcoreapp3.1\zad.genruntimeconfig.cache

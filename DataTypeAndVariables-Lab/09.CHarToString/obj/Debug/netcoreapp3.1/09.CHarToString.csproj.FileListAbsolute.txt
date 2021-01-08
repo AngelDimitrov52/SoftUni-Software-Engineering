@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\bin\Debug\netcoreapp3.1\09.CHarToString.exe
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\bin\Debug\netcoreapp3.1\09.CHarToString.deps.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\bin\Debug\netcoreapp3.1\09.CHarToString.runtimeconfig.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\bin\Debug\netcoreapp3.1\09.CHarToString.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\bin\Debug\netcoreapp3.1\09.CHarToString.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\bin\Debug\netcoreapp3.1\09.CHarToString.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\obj\Debug\netcoreapp3.1\09.CHarToString.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\obj\Debug\netcoreapp3.1\09.CHarToString.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\obj\Debug\netcoreapp3.1\09.CHarToString.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\obj\Debug\netcoreapp3.1\09.CHarToString.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\obj\Debug\netcoreapp3.1\09.CHarToString.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\09.CHarToString\obj\Debug\netcoreapp3.1\09.CHarToString.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\bin\Debug\netcoreapp3.1\SumerDress.exe
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\bin\Debug\netcoreapp3.1\SumerDress.deps.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\bin\Debug\netcoreapp3.1\SumerDress.runtimeconfig.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\bin\Debug\netcoreapp3.1\SumerDress.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\bin\Debug\netcoreapp3.1\SumerDress.dll
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\bin\Debug\netcoreapp3.1\SumerDress.pdb
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\obj\Debug\netcoreapp3.1\SumerDress.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\obj\Debug\netcoreapp3.1\SumerDress.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\obj\Debug\netcoreapp3.1\SumerDress.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\obj\Debug\netcoreapp3.1\SumerDress.dll
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\obj\Debug\netcoreapp3.1\SumerDress.pdb
+C:\Users\AngelPC\source\repos\HardIfElseExe\SumerDress\obj\Debug\netcoreapp3.1\SumerDress.genruntimeconfig.cache
