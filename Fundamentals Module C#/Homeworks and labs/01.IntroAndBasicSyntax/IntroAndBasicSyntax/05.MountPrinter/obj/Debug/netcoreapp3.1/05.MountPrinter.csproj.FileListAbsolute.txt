@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\bin\Debug\netcoreapp3.1\05.MountPrinter.exe
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\bin\Debug\netcoreapp3.1\05.MountPrinter.deps.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\bin\Debug\netcoreapp3.1\05.MountPrinter.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\bin\Debug\netcoreapp3.1\05.MountPrinter.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\bin\Debug\netcoreapp3.1\05.MountPrinter.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\bin\Debug\netcoreapp3.1\05.MountPrinter.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\obj\Debug\netcoreapp3.1\05.MountPrinter.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\obj\Debug\netcoreapp3.1\05.MountPrinter.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\obj\Debug\netcoreapp3.1\05.MountPrinter.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\obj\Debug\netcoreapp3.1\05.MountPrinter.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\obj\Debug\netcoreapp3.1\05.MountPrinter.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\05.MountPrinter\obj\Debug\netcoreapp3.1\05.MountPrinter.genruntimeconfig.cache

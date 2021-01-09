@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\bin\Debug\netcoreapp3.1\11.11. MultiplicationTable2.exe
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\bin\Debug\netcoreapp3.1\11.11. MultiplicationTable2.deps.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\bin\Debug\netcoreapp3.1\11.11. MultiplicationTable2.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\bin\Debug\netcoreapp3.1\11.11. MultiplicationTable2.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\bin\Debug\netcoreapp3.1\11.11. MultiplicationTable2.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\bin\Debug\netcoreapp3.1\11.11. MultiplicationTable2.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\obj\Debug\netcoreapp3.1\11.11. MultiplicationTable2.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\obj\Debug\netcoreapp3.1\11.11. MultiplicationTable2.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\obj\Debug\netcoreapp3.1\11.11. MultiplicationTable2.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\obj\Debug\netcoreapp3.1\11.11. MultiplicationTable2.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\obj\Debug\netcoreapp3.1\11.11. MultiplicationTable2.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\11.11. MultiplicationTable2\obj\Debug\netcoreapp3.1\11.11. MultiplicationTable2.genruntimeconfig.cache
