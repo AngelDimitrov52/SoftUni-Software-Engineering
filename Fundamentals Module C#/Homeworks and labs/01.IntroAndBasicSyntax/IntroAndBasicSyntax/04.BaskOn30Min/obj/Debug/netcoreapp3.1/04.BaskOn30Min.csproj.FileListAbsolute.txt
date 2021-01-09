@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\obj\Debug\netcoreapp3.1\04.BaskOn30Min.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\obj\Debug\netcoreapp3.1\04.BaskOn30Min.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\obj\Debug\netcoreapp3.1\04.BaskOn30Min.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\bin\Debug\netcoreapp3.1\04.BaskOn30Min.exe
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\bin\Debug\netcoreapp3.1\04.BaskOn30Min.deps.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\bin\Debug\netcoreapp3.1\04.BaskOn30Min.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\bin\Debug\netcoreapp3.1\04.BaskOn30Min.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\bin\Debug\netcoreapp3.1\04.BaskOn30Min.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\bin\Debug\netcoreapp3.1\04.BaskOn30Min.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\obj\Debug\netcoreapp3.1\04.BaskOn30Min.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\obj\Debug\netcoreapp3.1\04.BaskOn30Min.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\04.BaskOn30Min\obj\Debug\netcoreapp3.1\04.BaskOn30Min.genruntimeconfig.cache

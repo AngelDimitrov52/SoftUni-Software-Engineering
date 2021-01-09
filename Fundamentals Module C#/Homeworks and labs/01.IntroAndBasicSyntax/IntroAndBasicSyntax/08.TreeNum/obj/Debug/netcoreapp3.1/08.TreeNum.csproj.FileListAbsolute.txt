@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\bin\Debug\netcoreapp3.1\08.TreeNum.exe
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\bin\Debug\netcoreapp3.1\08.TreeNum.deps.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\bin\Debug\netcoreapp3.1\08.TreeNum.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\bin\Debug\netcoreapp3.1\08.TreeNum.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\bin\Debug\netcoreapp3.1\08.TreeNum.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\bin\Debug\netcoreapp3.1\08.TreeNum.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\obj\Debug\netcoreapp3.1\08.TreeNum.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\obj\Debug\netcoreapp3.1\08.TreeNum.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\obj\Debug\netcoreapp3.1\08.TreeNum.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\obj\Debug\netcoreapp3.1\08.TreeNum.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\obj\Debug\netcoreapp3.1\08.TreeNum.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\08.TreeNum\obj\Debug\netcoreapp3.1\08.TreeNum.genruntimeconfig.cache

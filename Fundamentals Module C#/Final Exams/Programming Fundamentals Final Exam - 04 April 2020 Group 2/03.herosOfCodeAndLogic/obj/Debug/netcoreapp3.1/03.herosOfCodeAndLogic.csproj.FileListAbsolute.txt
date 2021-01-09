@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\bin\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.exe
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\bin\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.deps.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\bin\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\bin\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\bin\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.dll
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\bin\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.pdb
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\obj\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\obj\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\obj\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\obj\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\obj\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.dll
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\obj\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.pdb
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03.herosOfCodeAndLogic\obj\Debug\netcoreapp3.1\03.herosOfCodeAndLogic.genruntimeconfig.cache
