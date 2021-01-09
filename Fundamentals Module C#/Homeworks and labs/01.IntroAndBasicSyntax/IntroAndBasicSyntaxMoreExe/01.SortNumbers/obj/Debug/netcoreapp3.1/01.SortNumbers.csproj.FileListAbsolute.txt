@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.exe
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.deps.json
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.dll
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.pdb
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.dll
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.pdb
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.genruntimeconfig.cache

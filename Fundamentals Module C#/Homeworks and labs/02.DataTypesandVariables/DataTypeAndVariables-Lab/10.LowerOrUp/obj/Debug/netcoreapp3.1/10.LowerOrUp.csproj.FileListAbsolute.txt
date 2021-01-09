@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\bin\Debug\netcoreapp3.1\10.LowerOrUp.exe
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\bin\Debug\netcoreapp3.1\10.LowerOrUp.deps.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\bin\Debug\netcoreapp3.1\10.LowerOrUp.runtimeconfig.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\bin\Debug\netcoreapp3.1\10.LowerOrUp.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\bin\Debug\netcoreapp3.1\10.LowerOrUp.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\bin\Debug\netcoreapp3.1\10.LowerOrUp.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\obj\Debug\netcoreapp3.1\10.LowerOrUp.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\obj\Debug\netcoreapp3.1\10.LowerOrUp.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\obj\Debug\netcoreapp3.1\10.LowerOrUp.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\obj\Debug\netcoreapp3.1\10.LowerOrUp.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\obj\Debug\netcoreapp3.1\10.LowerOrUp.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\10.LowerOrUp\obj\Debug\netcoreapp3.1\10.LowerOrUp.genruntimeconfig.cache

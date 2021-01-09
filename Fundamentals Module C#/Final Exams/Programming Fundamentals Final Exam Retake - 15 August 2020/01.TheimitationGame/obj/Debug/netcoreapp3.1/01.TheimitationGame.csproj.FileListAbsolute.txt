@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\bin\Debug\netcoreapp3.1\01.TheimitationGame.exe
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\bin\Debug\netcoreapp3.1\01.TheimitationGame.deps.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\bin\Debug\netcoreapp3.1\01.TheimitationGame.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\bin\Debug\netcoreapp3.1\01.TheimitationGame.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\bin\Debug\netcoreapp3.1\01.TheimitationGame.dll
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\bin\Debug\netcoreapp3.1\01.TheimitationGame.pdb
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\obj\Debug\netcoreapp3.1\01.TheimitationGame.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\obj\Debug\netcoreapp3.1\01.TheimitationGame.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\obj\Debug\netcoreapp3.1\01.TheimitationGame.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\obj\Debug\netcoreapp3.1\01.TheimitationGame.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\obj\Debug\netcoreapp3.1\01.TheimitationGame.dll
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\obj\Debug\netcoreapp3.1\01.TheimitationGame.pdb
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\01.TheimitationGame\obj\Debug\netcoreapp3.1\01.TheimitationGame.genruntimeconfig.cache

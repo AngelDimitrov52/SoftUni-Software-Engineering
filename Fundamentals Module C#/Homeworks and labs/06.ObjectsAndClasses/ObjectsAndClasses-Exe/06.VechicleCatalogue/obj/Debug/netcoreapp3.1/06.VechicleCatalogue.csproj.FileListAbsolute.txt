@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\bin\Debug\netcoreapp3.1\06.VechicleCatalogue.exe
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\bin\Debug\netcoreapp3.1\06.VechicleCatalogue.deps.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\bin\Debug\netcoreapp3.1\06.VechicleCatalogue.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\bin\Debug\netcoreapp3.1\06.VechicleCatalogue.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\bin\Debug\netcoreapp3.1\06.VechicleCatalogue.dll
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\bin\Debug\netcoreapp3.1\06.VechicleCatalogue.pdb
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\obj\Debug\netcoreapp3.1\06.VechicleCatalogue.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\obj\Debug\netcoreapp3.1\06.VechicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\obj\Debug\netcoreapp3.1\06.VechicleCatalogue.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\obj\Debug\netcoreapp3.1\06.VechicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\obj\Debug\netcoreapp3.1\06.VechicleCatalogue.dll
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\obj\Debug\netcoreapp3.1\06.VechicleCatalogue.pdb
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\06.VechicleCatalogue\obj\Debug\netcoreapp3.1\06.VechicleCatalogue.genruntimeconfig.cache

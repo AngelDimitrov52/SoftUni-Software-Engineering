@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\obj\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\obj\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\obj\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\obj\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\bin\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.exe
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\bin\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.deps.json
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\bin\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\bin\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\bin\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.dll
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\bin\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.pdb
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\obj\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.dll
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\obj\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.pdb
+C:\Users\AngelPC\source\repos\ntroBasicMoreExe\02.EnglishNameOfTheLastDay\obj\Debug\netcoreapp3.1\02.EnglishNameOfTheLastDay.genruntimeconfig.cache

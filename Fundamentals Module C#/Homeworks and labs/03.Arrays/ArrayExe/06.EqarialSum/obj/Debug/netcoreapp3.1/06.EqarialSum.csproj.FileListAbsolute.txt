@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\bin\Debug\netcoreapp3.1\06.EqarialSum.exe
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\bin\Debug\netcoreapp3.1\06.EqarialSum.deps.json
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\bin\Debug\netcoreapp3.1\06.EqarialSum.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\bin\Debug\netcoreapp3.1\06.EqarialSum.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\bin\Debug\netcoreapp3.1\06.EqarialSum.dll
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\bin\Debug\netcoreapp3.1\06.EqarialSum.pdb
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\obj\Debug\netcoreapp3.1\06.EqarialSum.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\obj\Debug\netcoreapp3.1\06.EqarialSum.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\obj\Debug\netcoreapp3.1\06.EqarialSum.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\obj\Debug\netcoreapp3.1\06.EqarialSum.dll
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\obj\Debug\netcoreapp3.1\06.EqarialSum.pdb
+C:\Users\AngelPC\source\repos\Array - Exe\06.EqarialSum\obj\Debug\netcoreapp3.1\06.EqarialSum.genruntimeconfig.cache

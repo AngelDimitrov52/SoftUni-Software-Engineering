@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.exe
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.deps.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.dll
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.pdb
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.dll
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.pdb
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam Retake - 15 August 2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.genruntimeconfig.cache

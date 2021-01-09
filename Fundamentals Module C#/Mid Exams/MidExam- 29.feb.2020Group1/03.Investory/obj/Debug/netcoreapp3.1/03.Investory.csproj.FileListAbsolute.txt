@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\bin\Debug\netcoreapp3.1\03.Investory.exe
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\bin\Debug\netcoreapp3.1\03.Investory.deps.json
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\bin\Debug\netcoreapp3.1\03.Investory.runtimeconfig.json
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\bin\Debug\netcoreapp3.1\03.Investory.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\bin\Debug\netcoreapp3.1\03.Investory.dll
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\bin\Debug\netcoreapp3.1\03.Investory.pdb
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\obj\Debug\netcoreapp3.1\03.Investory.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\obj\Debug\netcoreapp3.1\03.Investory.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\obj\Debug\netcoreapp3.1\03.Investory.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\obj\Debug\netcoreapp3.1\03.Investory.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\obj\Debug\netcoreapp3.1\03.Investory.dll
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\obj\Debug\netcoreapp3.1\03.Investory.pdb
+C:\Users\AngelPC\source\repos\MidExamp- 29.feb.2020Group1\03.Investory\obj\Debug\netcoreapp3.1\03.Investory.genruntimeconfig.cache

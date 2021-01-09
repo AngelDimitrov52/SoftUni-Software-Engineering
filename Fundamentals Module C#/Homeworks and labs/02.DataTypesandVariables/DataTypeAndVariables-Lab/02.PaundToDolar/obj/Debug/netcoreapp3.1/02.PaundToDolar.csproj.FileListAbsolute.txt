@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\bin\Debug\netcoreapp3.1\02.PaundToDolar.exe
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\bin\Debug\netcoreapp3.1\02.PaundToDolar.deps.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\bin\Debug\netcoreapp3.1\02.PaundToDolar.runtimeconfig.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\bin\Debug\netcoreapp3.1\02.PaundToDolar.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\bin\Debug\netcoreapp3.1\02.PaundToDolar.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\bin\Debug\netcoreapp3.1\02.PaundToDolar.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\obj\Debug\netcoreapp3.1\02.PaundToDolar.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\obj\Debug\netcoreapp3.1\02.PaundToDolar.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\obj\Debug\netcoreapp3.1\02.PaundToDolar.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\obj\Debug\netcoreapp3.1\02.PaundToDolar.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\obj\Debug\netcoreapp3.1\02.PaundToDolar.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\obj\Debug\netcoreapp3.1\02.PaundToDolar.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\02.PaundToDolar\obj\Debug\netcoreapp3.1\02.PaundToDolar.genruntimeconfig.cache

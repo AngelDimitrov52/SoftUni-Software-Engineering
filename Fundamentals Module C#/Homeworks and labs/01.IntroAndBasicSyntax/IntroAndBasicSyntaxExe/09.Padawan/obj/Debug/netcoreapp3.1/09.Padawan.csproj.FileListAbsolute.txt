@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\bin\Debug\netcoreapp3.1\09.Padawan.exe
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\bin\Debug\netcoreapp3.1\09.Padawan.deps.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\bin\Debug\netcoreapp3.1\09.Padawan.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\bin\Debug\netcoreapp3.1\09.Padawan.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\bin\Debug\netcoreapp3.1\09.Padawan.dll
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\bin\Debug\netcoreapp3.1\09.Padawan.pdb
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\obj\Debug\netcoreapp3.1\09.Padawan.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\obj\Debug\netcoreapp3.1\09.Padawan.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\obj\Debug\netcoreapp3.1\09.Padawan.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\obj\Debug\netcoreapp3.1\09.Padawan.dll
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\obj\Debug\netcoreapp3.1\09.Padawan.pdb
+C:\Users\AngelPC\source\repos\IntroBasicSintacExe\09.Padawan\obj\Debug\netcoreapp3.1\09.Padawan.genruntimeconfig.cache

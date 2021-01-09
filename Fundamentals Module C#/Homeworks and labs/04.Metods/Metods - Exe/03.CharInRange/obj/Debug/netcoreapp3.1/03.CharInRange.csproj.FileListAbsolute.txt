@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\bin\Debug\netcoreapp3.1\03.CharInRange.exe
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\bin\Debug\netcoreapp3.1\03.CharInRange.deps.json
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\bin\Debug\netcoreapp3.1\03.CharInRange.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\bin\Debug\netcoreapp3.1\03.CharInRange.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\bin\Debug\netcoreapp3.1\03.CharInRange.dll
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\bin\Debug\netcoreapp3.1\03.CharInRange.pdb
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\obj\Debug\netcoreapp3.1\03.CharInRange.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\obj\Debug\netcoreapp3.1\03.CharInRange.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\obj\Debug\netcoreapp3.1\03.CharInRange.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\obj\Debug\netcoreapp3.1\03.CharInRange.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\obj\Debug\netcoreapp3.1\03.CharInRange.dll
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\obj\Debug\netcoreapp3.1\03.CharInRange.pdb
+C:\Users\AngelPC\source\repos\Metods - Exe\03.CharInRange\obj\Debug\netcoreapp3.1\03.CharInRange.genruntimeconfig.cache

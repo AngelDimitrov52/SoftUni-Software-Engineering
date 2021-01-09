@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\bin\Debug\netcoreapp3.1\11.Operator.exe
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\bin\Debug\netcoreapp3.1\11.Operator.deps.json
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\bin\Debug\netcoreapp3.1\11.Operator.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\bin\Debug\netcoreapp3.1\11.Operator.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\bin\Debug\netcoreapp3.1\11.Operator.dll
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\bin\Debug\netcoreapp3.1\11.Operator.pdb
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\obj\Debug\netcoreapp3.1\11.Operator.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\obj\Debug\netcoreapp3.1\11.Operator.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\obj\Debug\netcoreapp3.1\11.Operator.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\obj\Debug\netcoreapp3.1\11.Operator.dll
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\obj\Debug\netcoreapp3.1\11.Operator.pdb
+C:\Users\AngelPC\source\repos\Metods-Lab\11.Operator\obj\Debug\netcoreapp3.1\11.Operator.genruntimeconfig.cache
