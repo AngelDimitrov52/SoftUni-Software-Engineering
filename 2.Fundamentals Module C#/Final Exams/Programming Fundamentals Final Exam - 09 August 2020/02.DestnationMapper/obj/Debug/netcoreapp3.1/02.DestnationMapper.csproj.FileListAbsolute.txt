@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\bin\Debug\netcoreapp3.1\02.DestnationMapper.exe
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\bin\Debug\netcoreapp3.1\02.DestnationMapper.deps.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\bin\Debug\netcoreapp3.1\02.DestnationMapper.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\bin\Debug\netcoreapp3.1\02.DestnationMapper.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\bin\Debug\netcoreapp3.1\02.DestnationMapper.dll
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\bin\Debug\netcoreapp3.1\02.DestnationMapper.pdb
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\obj\Debug\netcoreapp3.1\02.DestnationMapper.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\obj\Debug\netcoreapp3.1\02.DestnationMapper.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\obj\Debug\netcoreapp3.1\02.DestnationMapper.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\obj\Debug\netcoreapp3.1\02.DestnationMapper.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\obj\Debug\netcoreapp3.1\02.DestnationMapper.dll
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\obj\Debug\netcoreapp3.1\02.DestnationMapper.pdb
+C:\Users\AngelPC\source\repos\Programming Fundamentals Final Exam - 09 August 2020\02.DestnationMapper\obj\Debug\netcoreapp3.1\02.DestnationMapper.genruntimeconfig.cache

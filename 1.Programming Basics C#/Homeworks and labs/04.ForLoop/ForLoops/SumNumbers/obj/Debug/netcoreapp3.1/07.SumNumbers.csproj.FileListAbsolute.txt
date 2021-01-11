@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.exe
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.deps.json
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.dll
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.pdb
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.dll
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.pdb
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.genruntimeconfig.cache
+C:\Users\AngelPC\source\repos\Loops\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.csprojAssemblyReference.cache

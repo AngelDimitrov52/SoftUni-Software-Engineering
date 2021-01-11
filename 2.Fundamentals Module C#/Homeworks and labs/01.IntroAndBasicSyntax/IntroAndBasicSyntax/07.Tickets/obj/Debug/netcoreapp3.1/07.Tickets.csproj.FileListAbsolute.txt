@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\obj\Debug\netcoreapp3.1\07.Tickets.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\obj\Debug\netcoreapp3.1\07.Tickets.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\obj\Debug\netcoreapp3.1\07.Tickets.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\bin\Debug\netcoreapp3.1\07.Tickets.exe
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\bin\Debug\netcoreapp3.1\07.Tickets.deps.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\bin\Debug\netcoreapp3.1\07.Tickets.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\bin\Debug\netcoreapp3.1\07.Tickets.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\bin\Debug\netcoreapp3.1\07.Tickets.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\bin\Debug\netcoreapp3.1\07.Tickets.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\obj\Debug\netcoreapp3.1\07.Tickets.dll
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\obj\Debug\netcoreapp3.1\07.Tickets.pdb
+C:\Users\AngelPC\source\repos\IntroAndBasicSyntax\07.Tickets\obj\Debug\netcoreapp3.1\07.Tickets.genruntimeconfig.cache

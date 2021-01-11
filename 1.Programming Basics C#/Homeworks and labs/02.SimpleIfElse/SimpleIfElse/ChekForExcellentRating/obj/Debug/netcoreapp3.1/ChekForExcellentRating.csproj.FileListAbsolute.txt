@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\bin\Debug\netcoreapp3.1\ChekForExcellentRating.exe
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\bin\Debug\netcoreapp3.1\ChekForExcellentRating.deps.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\bin\Debug\netcoreapp3.1\ChekForExcellentRating.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\bin\Debug\netcoreapp3.1\ChekForExcellentRating.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\bin\Debug\netcoreapp3.1\ChekForExcellentRating.dll
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\bin\Debug\netcoreapp3.1\ChekForExcellentRating.pdb
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\obj\Debug\netcoreapp3.1\ChekForExcellentRating.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\obj\Debug\netcoreapp3.1\ChekForExcellentRating.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\obj\Debug\netcoreapp3.1\ChekForExcellentRating.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\obj\Debug\netcoreapp3.1\ChekForExcellentRating.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\obj\Debug\netcoreapp3.1\ChekForExcellentRating.dll
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\obj\Debug\netcoreapp3.1\ChekForExcellentRating.pdb
+C:\Users\AngelPC\source\repos\SimpleIfElse\ChekForExcellentRating\obj\Debug\netcoreapp3.1\ChekForExcellentRating.genruntimeconfig.cache

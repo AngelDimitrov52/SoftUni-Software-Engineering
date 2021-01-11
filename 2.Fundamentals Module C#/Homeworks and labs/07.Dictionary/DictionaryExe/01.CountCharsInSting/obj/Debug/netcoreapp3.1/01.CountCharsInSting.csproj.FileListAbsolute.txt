@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\bin\Debug\netcoreapp3.1\01.CountCharsInSting.exe
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\bin\Debug\netcoreapp3.1\01.CountCharsInSting.deps.json
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\bin\Debug\netcoreapp3.1\01.CountCharsInSting.runtimeconfig.json
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\bin\Debug\netcoreapp3.1\01.CountCharsInSting.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\bin\Debug\netcoreapp3.1\01.CountCharsInSting.dll
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\bin\Debug\netcoreapp3.1\01.CountCharsInSting.pdb
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\obj\Debug\netcoreapp3.1\01.CountCharsInSting.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\obj\Debug\netcoreapp3.1\01.CountCharsInSting.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\obj\Debug\netcoreapp3.1\01.CountCharsInSting.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\obj\Debug\netcoreapp3.1\01.CountCharsInSting.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\obj\Debug\netcoreapp3.1\01.CountCharsInSting.dll
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\obj\Debug\netcoreapp3.1\01.CountCharsInSting.pdb
+C:\Users\AngelPC\source\repos\DictionaryExe\01.CountCharsInSting\obj\Debug\netcoreapp3.1\01.CountCharsInSting.genruntimeconfig.cache

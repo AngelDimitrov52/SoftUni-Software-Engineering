@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\bin\Debug\netcoreapp3.1\02.ResersNubers.exe
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\bin\Debug\netcoreapp3.1\02.ResersNubers.deps.json
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\bin\Debug\netcoreapp3.1\02.ResersNubers.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\bin\Debug\netcoreapp3.1\02.ResersNubers.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\bin\Debug\netcoreapp3.1\02.ResersNubers.dll
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\bin\Debug\netcoreapp3.1\02.ResersNubers.pdb
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\obj\Debug\netcoreapp3.1\02.ResersNubers.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\obj\Debug\netcoreapp3.1\02.ResersNubers.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\obj\Debug\netcoreapp3.1\02.ResersNubers.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\obj\Debug\netcoreapp3.1\02.ResersNubers.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\obj\Debug\netcoreapp3.1\02.ResersNubers.dll
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\obj\Debug\netcoreapp3.1\02.ResersNubers.pdb
+C:\Users\AngelPC\source\repos\Array-Lab\02.ResersNubers\obj\Debug\netcoreapp3.1\02.ResersNubers.genruntimeconfig.cache

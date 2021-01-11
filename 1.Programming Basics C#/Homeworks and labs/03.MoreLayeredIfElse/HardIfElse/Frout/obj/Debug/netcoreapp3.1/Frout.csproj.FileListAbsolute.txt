@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\bin\Debug\netcoreapp3.1\Frout.exe
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\bin\Debug\netcoreapp3.1\Frout.deps.json
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\bin\Debug\netcoreapp3.1\Frout.runtimeconfig.json
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\bin\Debug\netcoreapp3.1\Frout.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\bin\Debug\netcoreapp3.1\Frout.dll
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\bin\Debug\netcoreapp3.1\Frout.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\obj\Debug\netcoreapp3.1\Frout.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\obj\Debug\netcoreapp3.1\Frout.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\obj\Debug\netcoreapp3.1\Frout.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\obj\Debug\netcoreapp3.1\Frout.dll
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\obj\Debug\netcoreapp3.1\Frout.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\Frout\obj\Debug\netcoreapp3.1\Frout.genruntimeconfig.cache

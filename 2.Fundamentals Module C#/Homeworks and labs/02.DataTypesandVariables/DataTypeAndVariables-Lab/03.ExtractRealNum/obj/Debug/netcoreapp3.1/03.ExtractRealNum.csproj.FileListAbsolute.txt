@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\bin\Debug\netcoreapp3.1\03.ExtractRealNum.exe
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\bin\Debug\netcoreapp3.1\03.ExtractRealNum.deps.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\bin\Debug\netcoreapp3.1\03.ExtractRealNum.runtimeconfig.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\bin\Debug\netcoreapp3.1\03.ExtractRealNum.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\bin\Debug\netcoreapp3.1\03.ExtractRealNum.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\bin\Debug\netcoreapp3.1\03.ExtractRealNum.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\obj\Debug\netcoreapp3.1\03.ExtractRealNum.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\obj\Debug\netcoreapp3.1\03.ExtractRealNum.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\obj\Debug\netcoreapp3.1\03.ExtractRealNum.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\obj\Debug\netcoreapp3.1\03.ExtractRealNum.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\obj\Debug\netcoreapp3.1\03.ExtractRealNum.dll
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\obj\Debug\netcoreapp3.1\03.ExtractRealNum.pdb
+C:\Users\AngelPC\source\repos\DataTypeAndVariables-Lab\03.ExtractRealNum\obj\Debug\netcoreapp3.1\03.ExtractRealNum.genruntimeconfig.cache

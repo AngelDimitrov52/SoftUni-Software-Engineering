@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\bin\Debug\netcoreapp3.1\x1y1.exe
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\bin\Debug\netcoreapp3.1\x1y1.deps.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\bin\Debug\netcoreapp3.1\x1y1.runtimeconfig.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\bin\Debug\netcoreapp3.1\x1y1.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\bin\Debug\netcoreapp3.1\x1y1.dll
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\bin\Debug\netcoreapp3.1\x1y1.pdb
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\obj\Debug\netcoreapp3.1\x1y1.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\obj\Debug\netcoreapp3.1\x1y1.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\obj\Debug\netcoreapp3.1\x1y1.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\obj\Debug\netcoreapp3.1\x1y1.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\obj\Debug\netcoreapp3.1\x1y1.dll
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\obj\Debug\netcoreapp3.1\x1y1.pdb
+C:\Users\AngelPC\source\repos\HardIfElseExe\x1y1\obj\Debug\netcoreapp3.1\x1y1.genruntimeconfig.cache

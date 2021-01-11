@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\bin\Debug\netcoreapp3.1\Invalid.exe
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\bin\Debug\netcoreapp3.1\Invalid.deps.json
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\bin\Debug\netcoreapp3.1\Invalid.runtimeconfig.json
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\bin\Debug\netcoreapp3.1\Invalid.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\bin\Debug\netcoreapp3.1\Invalid.dll
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\bin\Debug\netcoreapp3.1\Invalid.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\obj\Debug\netcoreapp3.1\Invalid.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\obj\Debug\netcoreapp3.1\Invalid.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\obj\Debug\netcoreapp3.1\Invalid.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\obj\Debug\netcoreapp3.1\Invalid.dll
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\obj\Debug\netcoreapp3.1\Invalid.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\Invalid\obj\Debug\netcoreapp3.1\Invalid.genruntimeconfig.cache

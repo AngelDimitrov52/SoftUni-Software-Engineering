@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Loops\TextCol\bin\Debug\netcoreapp3.1\TextCol.exe
+C:\Users\AngelPC\source\repos\Loops\TextCol\bin\Debug\netcoreapp3.1\TextCol.deps.json
+C:\Users\AngelPC\source\repos\Loops\TextCol\bin\Debug\netcoreapp3.1\TextCol.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Loops\TextCol\bin\Debug\netcoreapp3.1\TextCol.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Loops\TextCol\bin\Debug\netcoreapp3.1\TextCol.dll
+C:\Users\AngelPC\source\repos\Loops\TextCol\bin\Debug\netcoreapp3.1\TextCol.pdb
+C:\Users\AngelPC\source\repos\Loops\TextCol\obj\Debug\netcoreapp3.1\TextCol.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Loops\TextCol\obj\Debug\netcoreapp3.1\TextCol.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Loops\TextCol\obj\Debug\netcoreapp3.1\TextCol.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Loops\TextCol\obj\Debug\netcoreapp3.1\TextCol.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Loops\TextCol\obj\Debug\netcoreapp3.1\TextCol.dll
+C:\Users\AngelPC\source\repos\Loops\TextCol\obj\Debug\netcoreapp3.1\TextCol.pdb
+C:\Users\AngelPC\source\repos\Loops\TextCol\obj\Debug\netcoreapp3.1\TextCol.genruntimeconfig.cache

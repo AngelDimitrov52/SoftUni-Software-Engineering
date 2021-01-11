@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\bin\Debug\netcoreapp3.1\03.ZigZagArray.exe
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\bin\Debug\netcoreapp3.1\03.ZigZagArray.deps.json
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\bin\Debug\netcoreapp3.1\03.ZigZagArray.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\bin\Debug\netcoreapp3.1\03.ZigZagArray.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\bin\Debug\netcoreapp3.1\03.ZigZagArray.dll
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\bin\Debug\netcoreapp3.1\03.ZigZagArray.pdb
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\obj\Debug\netcoreapp3.1\03.ZigZagArray.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\obj\Debug\netcoreapp3.1\03.ZigZagArray.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\obj\Debug\netcoreapp3.1\03.ZigZagArray.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\obj\Debug\netcoreapp3.1\03.ZigZagArray.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\obj\Debug\netcoreapp3.1\03.ZigZagArray.dll
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\obj\Debug\netcoreapp3.1\03.ZigZagArray.pdb
+C:\Users\AngelPC\source\repos\Array - Exe\03.ZigZagArray\obj\Debug\netcoreapp3.1\03.ZigZagArray.genruntimeconfig.cache

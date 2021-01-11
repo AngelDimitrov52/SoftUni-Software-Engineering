@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\bin\Debug\netcoreapp3.1\CelzieToFarenfait.exe
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\bin\Debug\netcoreapp3.1\CelzieToFarenfait.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\bin\Debug\netcoreapp3.1\CelzieToFarenfait.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\bin\Debug\netcoreapp3.1\CelzieToFarenfait.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\bin\Debug\netcoreapp3.1\CelzieToFarenfait.dll
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\bin\Debug\netcoreapp3.1\CelzieToFarenfait.pdb
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\obj\Debug\netcoreapp3.1\CelzieToFarenfait.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\obj\Debug\netcoreapp3.1\CelzieToFarenfait.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\obj\Debug\netcoreapp3.1\CelzieToFarenfait.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\obj\Debug\netcoreapp3.1\CelzieToFarenfait.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\obj\Debug\netcoreapp3.1\CelzieToFarenfait.dll
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\obj\Debug\netcoreapp3.1\CelzieToFarenfait.pdb
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\CelzieToFarenfait\obj\Debug\netcoreapp3.1\CelzieToFarenfait.genruntimeconfig.cache

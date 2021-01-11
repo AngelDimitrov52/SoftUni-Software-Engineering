@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Loops\Step3\bin\Debug\netcoreapp3.1\Step3.exe
+C:\Users\AngelPC\source\repos\Loops\Step3\bin\Debug\netcoreapp3.1\Step3.deps.json
+C:\Users\AngelPC\source\repos\Loops\Step3\bin\Debug\netcoreapp3.1\Step3.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Loops\Step3\bin\Debug\netcoreapp3.1\Step3.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Loops\Step3\bin\Debug\netcoreapp3.1\Step3.dll
+C:\Users\AngelPC\source\repos\Loops\Step3\bin\Debug\netcoreapp3.1\Step3.pdb
+C:\Users\AngelPC\source\repos\Loops\Step3\obj\Debug\netcoreapp3.1\Step3.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Loops\Step3\obj\Debug\netcoreapp3.1\Step3.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Loops\Step3\obj\Debug\netcoreapp3.1\Step3.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Loops\Step3\obj\Debug\netcoreapp3.1\Step3.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Loops\Step3\obj\Debug\netcoreapp3.1\Step3.dll
+C:\Users\AngelPC\source\repos\Loops\Step3\obj\Debug\netcoreapp3.1\Step3.pdb
+C:\Users\AngelPC\source\repos\Loops\Step3\obj\Debug\netcoreapp3.1\Step3.genruntimeconfig.cache

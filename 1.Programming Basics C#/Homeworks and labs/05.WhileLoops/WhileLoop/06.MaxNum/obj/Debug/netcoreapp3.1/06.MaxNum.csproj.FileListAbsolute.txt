@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\bin\Debug\netcoreapp3.1\06.MaxNum.exe
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\bin\Debug\netcoreapp3.1\06.MaxNum.deps.json
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\bin\Debug\netcoreapp3.1\06.MaxNum.runtimeconfig.json
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\bin\Debug\netcoreapp3.1\06.MaxNum.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\bin\Debug\netcoreapp3.1\06.MaxNum.dll
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\bin\Debug\netcoreapp3.1\06.MaxNum.pdb
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\obj\Debug\netcoreapp3.1\06.MaxNum.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\obj\Debug\netcoreapp3.1\06.MaxNum.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\obj\Debug\netcoreapp3.1\06.MaxNum.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\obj\Debug\netcoreapp3.1\06.MaxNum.dll
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\obj\Debug\netcoreapp3.1\06.MaxNum.pdb
+C:\Users\AngelPC\source\repos\WhileLoop\06.MaxNum\obj\Debug\netcoreapp3.1\06.MaxNum.genruntimeconfig.cache

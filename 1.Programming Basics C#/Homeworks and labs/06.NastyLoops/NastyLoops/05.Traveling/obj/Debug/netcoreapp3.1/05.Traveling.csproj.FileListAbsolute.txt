@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\bin\Debug\netcoreapp3.1\05.Traveling.exe
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\bin\Debug\netcoreapp3.1\05.Traveling.deps.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\bin\Debug\netcoreapp3.1\05.Traveling.runtimeconfig.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\bin\Debug\netcoreapp3.1\05.Traveling.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\bin\Debug\netcoreapp3.1\05.Traveling.dll
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\bin\Debug\netcoreapp3.1\05.Traveling.pdb
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\obj\Debug\netcoreapp3.1\05.Traveling.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\obj\Debug\netcoreapp3.1\05.Traveling.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\obj\Debug\netcoreapp3.1\05.Traveling.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\obj\Debug\netcoreapp3.1\05.Traveling.dll
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\obj\Debug\netcoreapp3.1\05.Traveling.pdb
+C:\Users\AngelPC\source\repos\VlojeniCikli\05.Traveling\obj\Debug\netcoreapp3.1\05.Traveling.genruntimeconfig.cache

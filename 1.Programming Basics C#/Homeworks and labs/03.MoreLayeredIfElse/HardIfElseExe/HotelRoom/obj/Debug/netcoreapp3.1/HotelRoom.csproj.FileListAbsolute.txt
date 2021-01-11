@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.exe
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.deps.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.dll
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.pdb
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.dll
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.pdb
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.genruntimeconfig.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\bin\Debug\netcoreapp3.1\03.SoftUniBar.exe
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\bin\Debug\netcoreapp3.1\03.SoftUniBar.deps.json
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\bin\Debug\netcoreapp3.1\03.SoftUniBar.runtimeconfig.json
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\bin\Debug\netcoreapp3.1\03.SoftUniBar.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\bin\Debug\netcoreapp3.1\03.SoftUniBar.dll
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\bin\Debug\netcoreapp3.1\03.SoftUniBar.pdb
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\obj\Debug\netcoreapp3.1\03.SoftUniBar.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\obj\Debug\netcoreapp3.1\03.SoftUniBar.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\obj\Debug\netcoreapp3.1\03.SoftUniBar.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\obj\Debug\netcoreapp3.1\03.SoftUniBar.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\obj\Debug\netcoreapp3.1\03.SoftUniBar.dll
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\obj\Debug\netcoreapp3.1\03.SoftUniBar.pdb
+C:\Users\AngelPC\source\repos\RegularExpresionExe\03.SoftUniBar\obj\Debug\netcoreapp3.1\03.SoftUniBar.genruntimeconfig.cache

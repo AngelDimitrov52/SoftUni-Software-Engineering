@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\bin\Debug\netcoreapp3.1\SqareArea.exe
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\bin\Debug\netcoreapp3.1\SqareArea.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\bin\Debug\netcoreapp3.1\SqareArea.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\bin\Debug\netcoreapp3.1\SqareArea.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\bin\Debug\netcoreapp3.1\SqareArea.dll
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\bin\Debug\netcoreapp3.1\SqareArea.pdb
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\obj\Debug\netcoreapp3.1\SqareArea.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\obj\Debug\netcoreapp3.1\SqareArea.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\obj\Debug\netcoreapp3.1\SqareArea.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\obj\Debug\netcoreapp3.1\SqareArea.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\obj\Debug\netcoreapp3.1\SqareArea.dll
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\obj\Debug\netcoreapp3.1\SqareArea.pdb
+C:\Users\AngelPC\source\repos\SimpleOperations\SqareArea\obj\Debug\netcoreapp3.1\SqareArea.genruntimeconfig.cache

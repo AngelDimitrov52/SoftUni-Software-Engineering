@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\bin\Debug\netcoreapp3.1\Num1to9.exe
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\bin\Debug\netcoreapp3.1\Num1to9.deps.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\bin\Debug\netcoreapp3.1\Num1to9.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\bin\Debug\netcoreapp3.1\Num1to9.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\bin\Debug\netcoreapp3.1\Num1to9.dll
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\bin\Debug\netcoreapp3.1\Num1to9.pdb
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\obj\Debug\netcoreapp3.1\Num1to9.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\obj\Debug\netcoreapp3.1\Num1to9.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\obj\Debug\netcoreapp3.1\Num1to9.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\obj\Debug\netcoreapp3.1\Num1to9.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\obj\Debug\netcoreapp3.1\Num1to9.dll
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\obj\Debug\netcoreapp3.1\Num1to9.pdb
+C:\Users\AngelPC\source\repos\SimpleIfElse\Num1to9\obj\Debug\netcoreapp3.1\Num1to9.genruntimeconfig.cache

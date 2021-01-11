@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\bin\Debug\netcoreapp3.1\02.Greates.exe
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\bin\Debug\netcoreapp3.1\02.Greates.deps.json
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\bin\Debug\netcoreapp3.1\02.Greates.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\bin\Debug\netcoreapp3.1\02.Greates.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\bin\Debug\netcoreapp3.1\02.Greates.dll
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\bin\Debug\netcoreapp3.1\02.Greates.pdb
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\obj\Debug\netcoreapp3.1\02.Greates.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\obj\Debug\netcoreapp3.1\02.Greates.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\obj\Debug\netcoreapp3.1\02.Greates.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\obj\Debug\netcoreapp3.1\02.Greates.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\obj\Debug\netcoreapp3.1\02.Greates.dll
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\obj\Debug\netcoreapp3.1\02.Greates.pdb
+C:\Users\AngelPC\source\repos\Metods-Lab\02.Greates\obj\Debug\netcoreapp3.1\02.Greates.genruntimeconfig.cache

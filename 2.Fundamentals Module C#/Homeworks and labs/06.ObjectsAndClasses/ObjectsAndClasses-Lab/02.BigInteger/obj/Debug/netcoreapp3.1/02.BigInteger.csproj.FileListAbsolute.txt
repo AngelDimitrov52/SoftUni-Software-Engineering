@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\bin\Debug\netcoreapp3.1\02.BigInteger.exe
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\bin\Debug\netcoreapp3.1\02.BigInteger.deps.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\bin\Debug\netcoreapp3.1\02.BigInteger.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\bin\Debug\netcoreapp3.1\02.BigInteger.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\bin\Debug\netcoreapp3.1\02.BigInteger.dll
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\bin\Debug\netcoreapp3.1\02.BigInteger.pdb
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\obj\Debug\netcoreapp3.1\02.BigInteger.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\obj\Debug\netcoreapp3.1\02.BigInteger.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\obj\Debug\netcoreapp3.1\02.BigInteger.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\obj\Debug\netcoreapp3.1\02.BigInteger.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\obj\Debug\netcoreapp3.1\02.BigInteger.dll
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\obj\Debug\netcoreapp3.1\02.BigInteger.pdb
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Lab\02.BigInteger\obj\Debug\netcoreapp3.1\02.BigInteger.genruntimeconfig.cache

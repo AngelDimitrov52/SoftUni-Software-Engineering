@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.exe
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.deps.json
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.dll
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.pdb
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.dll
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.pdb
+C:\Users\AngelPC\source\repos\Array-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\bin\Debug\netcoreapp3.1\HousePaint.exe
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\bin\Debug\netcoreapp3.1\HousePaint.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\bin\Debug\netcoreapp3.1\HousePaint.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\bin\Debug\netcoreapp3.1\HousePaint.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\bin\Debug\netcoreapp3.1\HousePaint.dll
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\bin\Debug\netcoreapp3.1\HousePaint.pdb
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\obj\Debug\netcoreapp3.1\HousePaint.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\obj\Debug\netcoreapp3.1\HousePaint.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\obj\Debug\netcoreapp3.1\HousePaint.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\obj\Debug\netcoreapp3.1\HousePaint.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\obj\Debug\netcoreapp3.1\HousePaint.dll
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\obj\Debug\netcoreapp3.1\HousePaint.pdb
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\HousePaint\obj\Debug\netcoreapp3.1\HousePaint.genruntimeconfig.cache

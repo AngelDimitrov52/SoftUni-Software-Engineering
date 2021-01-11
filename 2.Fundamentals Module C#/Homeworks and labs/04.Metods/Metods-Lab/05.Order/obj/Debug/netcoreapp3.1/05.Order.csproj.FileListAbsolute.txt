@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\bin\Debug\netcoreapp3.1\05.Order.exe
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\bin\Debug\netcoreapp3.1\05.Order.deps.json
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\bin\Debug\netcoreapp3.1\05.Order.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\bin\Debug\netcoreapp3.1\05.Order.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\bin\Debug\netcoreapp3.1\05.Order.dll
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\bin\Debug\netcoreapp3.1\05.Order.pdb
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\obj\Debug\netcoreapp3.1\05.Order.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\obj\Debug\netcoreapp3.1\05.Order.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\obj\Debug\netcoreapp3.1\05.Order.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\obj\Debug\netcoreapp3.1\05.Order.dll
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\obj\Debug\netcoreapp3.1\05.Order.pdb
+C:\Users\AngelPC\source\repos\Metods-Lab\05.Order\obj\Debug\netcoreapp3.1\05.Order.genruntimeconfig.cache

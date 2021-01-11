@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\bin\Debug\netcoreapp3.1\MinSec.exe
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\bin\Debug\netcoreapp3.1\MinSec.deps.json
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\bin\Debug\netcoreapp3.1\MinSec.runtimeconfig.json
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\bin\Debug\netcoreapp3.1\MinSec.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\bin\Debug\netcoreapp3.1\MinSec.dll
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\bin\Debug\netcoreapp3.1\MinSec.pdb
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\obj\Debug\netcoreapp3.1\MinSec.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\obj\Debug\netcoreapp3.1\MinSec.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\obj\Debug\netcoreapp3.1\MinSec.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\obj\Debug\netcoreapp3.1\MinSec.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\obj\Debug\netcoreapp3.1\MinSec.dll
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\obj\Debug\netcoreapp3.1\MinSec.pdb
+C:\Users\AngelPC\source\repos\IfElseExe\MinSec\obj\Debug\netcoreapp3.1\MinSec.genruntimeconfig.cache

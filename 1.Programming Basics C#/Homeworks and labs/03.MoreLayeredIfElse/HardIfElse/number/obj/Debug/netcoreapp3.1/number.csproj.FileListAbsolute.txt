@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\HardIfElse\number\bin\Debug\netcoreapp3.1\number.exe
+C:\Users\AngelPC\source\repos\HardIfElse\number\bin\Debug\netcoreapp3.1\number.deps.json
+C:\Users\AngelPC\source\repos\HardIfElse\number\bin\Debug\netcoreapp3.1\number.runtimeconfig.json
+C:\Users\AngelPC\source\repos\HardIfElse\number\bin\Debug\netcoreapp3.1\number.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\HardIfElse\number\bin\Debug\netcoreapp3.1\number.dll
+C:\Users\AngelPC\source\repos\HardIfElse\number\bin\Debug\netcoreapp3.1\number.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\number\obj\Debug\netcoreapp3.1\number.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\number\obj\Debug\netcoreapp3.1\number.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElse\number\obj\Debug\netcoreapp3.1\number.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\HardIfElse\number\obj\Debug\netcoreapp3.1\number.dll
+C:\Users\AngelPC\source\repos\HardIfElse\number\obj\Debug\netcoreapp3.1\number.pdb
+C:\Users\AngelPC\source\repos\HardIfElse\number\obj\Debug\netcoreapp3.1\number.genruntimeconfig.cache

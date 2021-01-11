@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\bin\Debug\netcoreapp3.1\02.Abc.exe
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\bin\Debug\netcoreapp3.1\02.Abc.deps.json
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\bin\Debug\netcoreapp3.1\02.Abc.runtimeconfig.json
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\bin\Debug\netcoreapp3.1\02.Abc.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\bin\Debug\netcoreapp3.1\02.Abc.dll
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\bin\Debug\netcoreapp3.1\02.Abc.pdb
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\obj\Debug\netcoreapp3.1\02.Abc.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\obj\Debug\netcoreapp3.1\02.Abc.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\obj\Debug\netcoreapp3.1\02.Abc.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\obj\Debug\netcoreapp3.1\02.Abc.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\obj\Debug\netcoreapp3.1\02.Abc.dll
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\obj\Debug\netcoreapp3.1\02.Abc.pdb
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\02.Abc\obj\Debug\netcoreapp3.1\02.Abc.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\bin\Debug\netcoreapp3.1\01.FirstProblem.exe
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\bin\Debug\netcoreapp3.1\01.FirstProblem.deps.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\bin\Debug\netcoreapp3.1\01.FirstProblem.runtimeconfig.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\bin\Debug\netcoreapp3.1\01.FirstProblem.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\bin\Debug\netcoreapp3.1\01.FirstProblem.dll
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\bin\Debug\netcoreapp3.1\01.FirstProblem.pdb
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\obj\Debug\netcoreapp3.1\01.FirstProblem.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\obj\Debug\netcoreapp3.1\01.FirstProblem.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\obj\Debug\netcoreapp3.1\01.FirstProblem.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\obj\Debug\netcoreapp3.1\01.FirstProblem.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\obj\Debug\netcoreapp3.1\01.FirstProblem.dll
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\obj\Debug\netcoreapp3.1\01.FirstProblem.pdb
+C:\Users\AngelPC\source\repos\ObjectsAndClasses-Exe\01.FirstProblem\obj\Debug\netcoreapp3.1\01.FirstProblem.genruntimeconfig.cache

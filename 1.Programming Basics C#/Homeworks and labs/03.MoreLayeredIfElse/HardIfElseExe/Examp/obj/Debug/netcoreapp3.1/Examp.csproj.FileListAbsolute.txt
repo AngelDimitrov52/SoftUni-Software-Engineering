@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\bin\Debug\netcoreapp3.1\Examp.exe
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\bin\Debug\netcoreapp3.1\Examp.deps.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\bin\Debug\netcoreapp3.1\Examp.runtimeconfig.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\bin\Debug\netcoreapp3.1\Examp.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\bin\Debug\netcoreapp3.1\Examp.dll
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\bin\Debug\netcoreapp3.1\Examp.pdb
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\obj\Debug\netcoreapp3.1\Examp.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\obj\Debug\netcoreapp3.1\Examp.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\obj\Debug\netcoreapp3.1\Examp.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\obj\Debug\netcoreapp3.1\Examp.dll
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\obj\Debug\netcoreapp3.1\Examp.pdb
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\obj\Debug\netcoreapp3.1\Examp.genruntimeconfig.cache
+C:\Users\AngelPC\source\repos\HardIfElseExe\Examp\obj\Debug\netcoreapp3.1\Examp.csprojAssemblyReference.cache

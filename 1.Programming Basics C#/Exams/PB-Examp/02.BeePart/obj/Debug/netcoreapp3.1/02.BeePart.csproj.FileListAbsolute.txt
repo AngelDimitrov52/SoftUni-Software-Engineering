@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\bin\Debug\netcoreapp3.1\02.BeePart.exe
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\bin\Debug\netcoreapp3.1\02.BeePart.deps.json
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\bin\Debug\netcoreapp3.1\02.BeePart.runtimeconfig.json
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\bin\Debug\netcoreapp3.1\02.BeePart.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\bin\Debug\netcoreapp3.1\02.BeePart.dll
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\bin\Debug\netcoreapp3.1\02.BeePart.pdb
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\obj\Debug\netcoreapp3.1\02.BeePart.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\obj\Debug\netcoreapp3.1\02.BeePart.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\obj\Debug\netcoreapp3.1\02.BeePart.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\obj\Debug\netcoreapp3.1\02.BeePart.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\obj\Debug\netcoreapp3.1\02.BeePart.dll
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\obj\Debug\netcoreapp3.1\02.BeePart.pdb
+C:\Users\AngelPC\source\repos\PB-Examp\02.BeePart\obj\Debug\netcoreapp3.1\02.BeePart.genruntimeconfig.cache

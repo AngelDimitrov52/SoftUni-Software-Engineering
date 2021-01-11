@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\bin\Debug\netcoreapp3.1\03.Flower.exe
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\bin\Debug\netcoreapp3.1\03.Flower.deps.json
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\bin\Debug\netcoreapp3.1\03.Flower.runtimeconfig.json
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\bin\Debug\netcoreapp3.1\03.Flower.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\bin\Debug\netcoreapp3.1\03.Flower.dll
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\bin\Debug\netcoreapp3.1\03.Flower.pdb
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\obj\Debug\netcoreapp3.1\03.Flower.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\obj\Debug\netcoreapp3.1\03.Flower.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\obj\Debug\netcoreapp3.1\03.Flower.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\obj\Debug\netcoreapp3.1\03.Flower.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\obj\Debug\netcoreapp3.1\03.Flower.dll
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\obj\Debug\netcoreapp3.1\03.Flower.pdb
+C:\Users\AngelPC\source\repos\PB-Examp\03.Flower\obj\Debug\netcoreapp3.1\03.Flower.genruntimeconfig.cache

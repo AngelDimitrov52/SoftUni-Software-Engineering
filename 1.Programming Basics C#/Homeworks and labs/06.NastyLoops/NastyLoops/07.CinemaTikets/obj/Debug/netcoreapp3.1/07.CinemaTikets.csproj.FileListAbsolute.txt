@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\bin\Debug\netcoreapp3.1\07.CinemaTikets.exe
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\bin\Debug\netcoreapp3.1\07.CinemaTikets.deps.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\bin\Debug\netcoreapp3.1\07.CinemaTikets.runtimeconfig.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\bin\Debug\netcoreapp3.1\07.CinemaTikets.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\bin\Debug\netcoreapp3.1\07.CinemaTikets.dll
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\bin\Debug\netcoreapp3.1\07.CinemaTikets.pdb
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\obj\Debug\netcoreapp3.1\07.CinemaTikets.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\obj\Debug\netcoreapp3.1\07.CinemaTikets.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\obj\Debug\netcoreapp3.1\07.CinemaTikets.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\obj\Debug\netcoreapp3.1\07.CinemaTikets.dll
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\obj\Debug\netcoreapp3.1\07.CinemaTikets.pdb
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\obj\Debug\netcoreapp3.1\07.CinemaTikets.genruntimeconfig.cache
+C:\Users\AngelPC\source\repos\VlojeniCikli\07.CinemaTikets\obj\Debug\netcoreapp3.1\07.CinemaTikets.csprojAssemblyReference.cache

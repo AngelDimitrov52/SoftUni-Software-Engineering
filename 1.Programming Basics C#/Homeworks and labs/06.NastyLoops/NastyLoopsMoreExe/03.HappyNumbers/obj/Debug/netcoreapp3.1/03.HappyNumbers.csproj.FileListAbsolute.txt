@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\bin\Debug\netcoreapp3.1\03.HappyNumbers.exe
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\bin\Debug\netcoreapp3.1\03.HappyNumbers.deps.json
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\bin\Debug\netcoreapp3.1\03.HappyNumbers.runtimeconfig.json
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\bin\Debug\netcoreapp3.1\03.HappyNumbers.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\bin\Debug\netcoreapp3.1\03.HappyNumbers.dll
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\bin\Debug\netcoreapp3.1\03.HappyNumbers.pdb
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\obj\Debug\netcoreapp3.1\03.HappyNumbers.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\obj\Debug\netcoreapp3.1\03.HappyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\obj\Debug\netcoreapp3.1\03.HappyNumbers.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\obj\Debug\netcoreapp3.1\03.HappyNumbers.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\obj\Debug\netcoreapp3.1\03.HappyNumbers.dll
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\obj\Debug\netcoreapp3.1\03.HappyNumbers.pdb
+C:\Users\AngelPC\source\repos\NastyLoopMoreExe\03.HappyNumbers\obj\Debug\netcoreapp3.1\03.HappyNumbers.genruntimeconfig.cache

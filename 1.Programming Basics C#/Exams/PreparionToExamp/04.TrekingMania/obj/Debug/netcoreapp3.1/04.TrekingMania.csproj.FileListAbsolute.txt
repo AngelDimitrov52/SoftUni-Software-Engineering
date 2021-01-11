@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\bin\Debug\netcoreapp3.1\04.TrekingMania.exe
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\bin\Debug\netcoreapp3.1\04.TrekingMania.deps.json
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\bin\Debug\netcoreapp3.1\04.TrekingMania.runtimeconfig.json
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\bin\Debug\netcoreapp3.1\04.TrekingMania.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\bin\Debug\netcoreapp3.1\04.TrekingMania.dll
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\bin\Debug\netcoreapp3.1\04.TrekingMania.pdb
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\obj\Debug\netcoreapp3.1\04.TrekingMania.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\obj\Debug\netcoreapp3.1\04.TrekingMania.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\obj\Debug\netcoreapp3.1\04.TrekingMania.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\obj\Debug\netcoreapp3.1\04.TrekingMania.dll
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\obj\Debug\netcoreapp3.1\04.TrekingMania.pdb
+C:\Users\AngelPC\source\repos\PreparionToExamp\04.TrekingMania\obj\Debug\netcoreapp3.1\04.TrekingMania.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\bin\Debug\netcoreapp3.1\Weather2.exe
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\bin\Debug\netcoreapp3.1\Weather2.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\bin\Debug\netcoreapp3.1\Weather2.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\bin\Debug\netcoreapp3.1\Weather2.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\bin\Debug\netcoreapp3.1\Weather2.dll
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\bin\Debug\netcoreapp3.1\Weather2.pdb
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\obj\Debug\netcoreapp3.1\Weather2.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\obj\Debug\netcoreapp3.1\Weather2.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\obj\Debug\netcoreapp3.1\Weather2.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\obj\Debug\netcoreapp3.1\Weather2.dll
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\obj\Debug\netcoreapp3.1\Weather2.pdb
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\obj\Debug\netcoreapp3.1\Weather2.genruntimeconfig.cache
+C:\Users\AngelPC\source\repos\SimpleOperatioAndCalkulationMoreExersaises\Weather2\obj\Debug\netcoreapp3.1\Weather2.csprojAssemblyReference.cache

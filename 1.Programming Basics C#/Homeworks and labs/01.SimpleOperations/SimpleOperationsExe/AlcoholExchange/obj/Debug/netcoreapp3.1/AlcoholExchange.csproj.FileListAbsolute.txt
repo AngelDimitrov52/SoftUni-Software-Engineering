@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\bin\Debug\netcoreapp3.1\AlcoholExchange.exe
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\bin\Debug\netcoreapp3.1\AlcoholExchange.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\bin\Debug\netcoreapp3.1\AlcoholExchange.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\bin\Debug\netcoreapp3.1\AlcoholExchange.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\bin\Debug\netcoreapp3.1\AlcoholExchange.dll
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\bin\Debug\netcoreapp3.1\AlcoholExchange.pdb
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\obj\Debug\netcoreapp3.1\AlcoholExchange.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\obj\Debug\netcoreapp3.1\AlcoholExchange.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\obj\Debug\netcoreapp3.1\AlcoholExchange.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\obj\Debug\netcoreapp3.1\AlcoholExchange.dll
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\obj\Debug\netcoreapp3.1\AlcoholExchange.pdb
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\obj\Debug\netcoreapp3.1\AlcoholExchange.genruntimeconfig.cache
+C:\Users\AngelPC\source\repos\SimpleOperadionExample\AlcoholExchange\obj\Debug\netcoreapp3.1\AlcoholExchange.csprojAssemblyReference.cache

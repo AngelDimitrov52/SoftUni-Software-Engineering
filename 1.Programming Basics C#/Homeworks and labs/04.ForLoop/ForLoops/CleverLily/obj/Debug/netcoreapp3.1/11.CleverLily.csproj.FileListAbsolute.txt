@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.exe
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.deps.json
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.dll
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.pdb
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.dll
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.pdb
+C:\Users\AngelPC\source\repos\Loops\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.genruntimeconfig.cache

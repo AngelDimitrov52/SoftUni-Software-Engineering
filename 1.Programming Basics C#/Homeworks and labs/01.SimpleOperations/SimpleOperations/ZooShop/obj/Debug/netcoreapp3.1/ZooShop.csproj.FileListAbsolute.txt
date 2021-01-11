@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.exe
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.deps.json
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.runtimeconfig.json
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.dll
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.pdb
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.dll
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.pdb
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.genruntimeconfig.cache
+C:\Users\AngelPC\source\repos\SimpleOperations\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.csprojAssemblyReference.cache

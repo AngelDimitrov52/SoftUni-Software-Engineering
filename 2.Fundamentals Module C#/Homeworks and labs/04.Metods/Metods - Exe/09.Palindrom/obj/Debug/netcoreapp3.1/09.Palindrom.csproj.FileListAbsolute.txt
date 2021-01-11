@@ -1,0 +1,12 @@
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\bin\Debug\netcoreapp3.1\09.Palindrom.exe
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\bin\Debug\netcoreapp3.1\09.Palindrom.deps.json
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\bin\Debug\netcoreapp3.1\09.Palindrom.runtimeconfig.json
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\bin\Debug\netcoreapp3.1\09.Palindrom.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\bin\Debug\netcoreapp3.1\09.Palindrom.dll
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\bin\Debug\netcoreapp3.1\09.Palindrom.pdb
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\obj\Debug\netcoreapp3.1\09.Palindrom.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\obj\Debug\netcoreapp3.1\09.Palindrom.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\obj\Debug\netcoreapp3.1\09.Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\obj\Debug\netcoreapp3.1\09.Palindrom.dll
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\obj\Debug\netcoreapp3.1\09.Palindrom.pdb
+C:\Users\AngelPC\source\repos\Metods - Exe\09.Palindrom\obj\Debug\netcoreapp3.1\09.Palindrom.genruntimeconfig.cache

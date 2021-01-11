@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\bin\Debug\netcoreapp3.1\02.ElementSum.exe
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\bin\Debug\netcoreapp3.1\02.ElementSum.deps.json
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\bin\Debug\netcoreapp3.1\02.ElementSum.runtimeconfig.json
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\bin\Debug\netcoreapp3.1\02.ElementSum.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\bin\Debug\netcoreapp3.1\02.ElementSum.dll
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\bin\Debug\netcoreapp3.1\02.ElementSum.pdb
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\obj\Debug\netcoreapp3.1\02.ElementSum.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\obj\Debug\netcoreapp3.1\02.ElementSum.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\obj\Debug\netcoreapp3.1\02.ElementSum.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\obj\Debug\netcoreapp3.1\02.ElementSum.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\obj\Debug\netcoreapp3.1\02.ElementSum.dll
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\obj\Debug\netcoreapp3.1\02.ElementSum.pdb
+C:\Users\AngelPC\source\repos\LoopsExe\02.ElementSum\obj\Debug\netcoreapp3.1\02.ElementSum.genruntimeconfig.cache

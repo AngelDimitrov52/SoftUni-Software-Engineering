@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\bin\Debug\netcoreapp3.1\03.MarginList.exe
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\bin\Debug\netcoreapp3.1\03.MarginList.deps.json
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\bin\Debug\netcoreapp3.1\03.MarginList.runtimeconfig.json
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\bin\Debug\netcoreapp3.1\03.MarginList.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\bin\Debug\netcoreapp3.1\03.MarginList.dll
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\bin\Debug\netcoreapp3.1\03.MarginList.pdb
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\obj\Debug\netcoreapp3.1\03.MarginList.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\obj\Debug\netcoreapp3.1\03.MarginList.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\obj\Debug\netcoreapp3.1\03.MarginList.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\obj\Debug\netcoreapp3.1\03.MarginList.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\obj\Debug\netcoreapp3.1\03.MarginList.dll
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\obj\Debug\netcoreapp3.1\03.MarginList.pdb
+C:\Users\AngelPC\source\repos\List-Lab\03.MarginList\obj\Debug\netcoreapp3.1\03.MarginList.genruntimeconfig.cache

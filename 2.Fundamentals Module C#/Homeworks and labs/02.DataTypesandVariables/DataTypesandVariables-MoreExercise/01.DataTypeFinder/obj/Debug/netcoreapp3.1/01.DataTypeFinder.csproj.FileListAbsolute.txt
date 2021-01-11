@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.exe
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.deps.json
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.runtimeconfig.json
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.dll
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.pdb
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.dll
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.pdb
+C:\Users\AngelPC\source\repos\DataTypesandVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.genruntimeconfig.cache

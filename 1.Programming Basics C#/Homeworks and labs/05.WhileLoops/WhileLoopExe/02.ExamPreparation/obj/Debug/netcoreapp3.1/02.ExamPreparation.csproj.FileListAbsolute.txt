@@ -1,0 +1,13 @@
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.exe
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.deps.json
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.json
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.dev.json
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.dll
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.pdb
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.csprojAssemblyReference.cache
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfo.cs
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.dll
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.pdb
+C:\Users\AngelPC\source\repos\WhieLoopExe\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.genruntimeconfig.cache
