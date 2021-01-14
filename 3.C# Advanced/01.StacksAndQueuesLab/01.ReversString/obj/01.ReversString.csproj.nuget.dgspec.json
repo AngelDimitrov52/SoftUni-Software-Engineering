@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\01.ReversString\\01.ReversString.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\01.ReversString\\01.ReversString.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\01.ReversString\\01.ReversString.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\01.ReversString\\01.ReversString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\01.ReversString\\01.ReversString.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\01.ReversString\\01.ReversString.csproj",
         "projectName": "01.ReversString",
-        "projectPath": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\01.ReversString\\01.ReversString.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\01.ReversString\\01.ReversString.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\01.ReversString\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\01.ReversString\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

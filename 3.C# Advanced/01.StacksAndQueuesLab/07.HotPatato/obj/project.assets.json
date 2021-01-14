@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\07.HotPatato\\07.HotPatato.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\07.HotPatato\\07.HotPatato.csproj",
       "projectName": "07.HotPatato",
-      "projectPath": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\07.HotPatato\\07.HotPatato.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\07.HotPatato\\07.HotPatato.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\07.HotPatato\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\07.HotPatato\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

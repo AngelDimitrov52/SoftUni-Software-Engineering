@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\02.StackSum\\02.StackSum.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\02.StackSum\\02.StackSum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\02.StackSum\\02.StackSum.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\02.StackSum\\02.StackSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\02.StackSum\\02.StackSum.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\02.StackSum\\02.StackSum.csproj",
         "projectName": "02.StackSum",
-        "projectPath": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\02.StackSum\\02.StackSum.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\02.StackSum\\02.StackSum.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\02.StackSum\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\02.StackSum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

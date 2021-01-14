@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\03.SimpleCalculator\\03.SimpleCalculator.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\03.SimpleCalculator\\03.SimpleCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\03.SimpleCalculator\\03.SimpleCalculator.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\03.SimpleCalculator\\03.SimpleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\03.SimpleCalculator\\03.SimpleCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\03.SimpleCalculator\\03.SimpleCalculator.csproj",
         "projectName": "03.SimpleCalculator",
-        "projectPath": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\03.SimpleCalculator\\03.SimpleCalculator.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\03.SimpleCalculator\\03.SimpleCalculator.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\03.SimpleCalculator\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\03.SimpleCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

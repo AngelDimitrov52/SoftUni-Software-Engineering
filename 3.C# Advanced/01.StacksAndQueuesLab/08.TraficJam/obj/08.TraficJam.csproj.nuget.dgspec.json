@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\08.TraficJam\\08.TraficJam.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\08.TraficJam\\08.TraficJam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\08.TraficJam\\08.TraficJam.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\08.TraficJam\\08.TraficJam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\08.TraficJam\\08.TraficJam.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\08.TraficJam\\08.TraficJam.csproj",
         "projectName": "08.TraficJam",
-        "projectPath": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\08.TraficJam\\08.TraficJam.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\08.TraficJam\\08.TraficJam.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\source\\repos\\01.StacksAndQueues\\08.TraficJam\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\01.StacksAndQueues\\08.TraficJam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
