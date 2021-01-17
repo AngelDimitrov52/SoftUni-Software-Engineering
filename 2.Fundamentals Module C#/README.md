@@ -1,4 +1,4 @@
-# <a href="https://softuni.bg/trainings/3135/csharp-fundamentals-september-2020" rel="Programming-Fundamentals"><p align="center"> Programming Fundamentals C# - september 2020<p>
+# <a href="https://softuni.bg/trainings/3135/csharp-fundamentals-september-2020" rel="Programming-Fundamentals"><p align="center"> Programming Fundamentals C# - September 2020<p>
 </a>
 
 ---
