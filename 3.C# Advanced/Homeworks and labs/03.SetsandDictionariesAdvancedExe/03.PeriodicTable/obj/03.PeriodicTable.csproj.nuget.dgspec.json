@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\03.PeriodicTable\\03.PeriodicTable.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\03.PeriodicTable\\03.PeriodicTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\03.PeriodicTable\\03.PeriodicTable.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\03.PeriodicTable\\03.PeriodicTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\03.PeriodicTable\\03.PeriodicTable.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\03.PeriodicTable\\03.PeriodicTable.csproj",
         "projectName": "03.PeriodicTable",
-        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\03.PeriodicTable\\03.PeriodicTable.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\03.PeriodicTable\\03.PeriodicTable.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\03.PeriodicTable\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\03.PeriodicTable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

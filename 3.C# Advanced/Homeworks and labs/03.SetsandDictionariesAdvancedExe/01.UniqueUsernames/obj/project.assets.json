@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\01.UniqueUsernames\\01.UniqueUsernames.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\01.UniqueUsernames\\01.UniqueUsernames.csproj",
       "projectName": "01.UniqueUsernames",
-      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\01.UniqueUsernames\\01.UniqueUsernames.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\01.UniqueUsernames\\01.UniqueUsernames.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\01.UniqueUsernames\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\01.UniqueUsernames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

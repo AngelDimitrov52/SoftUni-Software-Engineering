@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\06.Wardrobe\\06.Wardrobe.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\06.Wardrobe\\06.Wardrobe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\06.Wardrobe\\06.Wardrobe.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\06.Wardrobe\\06.Wardrobe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\06.Wardrobe\\06.Wardrobe.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\06.Wardrobe\\06.Wardrobe.csproj",
         "projectName": "06.Wardrobe",
-        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\06.Wardrobe\\06.Wardrobe.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\06.Wardrobe\\06.Wardrobe.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Engineering\\C# Advanced\\03.SetsandDictionariesAdvancedExe\\06.Wardrobe\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\03.SetsandDictionariesAdvancedExe\\06.Wardrobe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
