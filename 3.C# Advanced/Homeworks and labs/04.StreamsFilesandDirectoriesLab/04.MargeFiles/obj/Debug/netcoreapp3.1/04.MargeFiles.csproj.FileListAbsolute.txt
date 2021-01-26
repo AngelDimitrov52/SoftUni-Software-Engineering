@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\bin\Debug\netcoreapp3.1\04.MargeFiles.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\bin\Debug\netcoreapp3.1\04.MargeFiles.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\bin\Debug\netcoreapp3.1\04.MargeFiles.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\bin\Debug\netcoreapp3.1\04.MargeFiles.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\bin\Debug\netcoreapp3.1\04.MargeFiles.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\bin\Debug\netcoreapp3.1\04.MargeFiles.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\obj\Debug\netcoreapp3.1\04.MargeFiles.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\obj\Debug\netcoreapp3.1\04.MargeFiles.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\obj\Debug\netcoreapp3.1\04.MargeFiles.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\obj\Debug\netcoreapp3.1\04.MargeFiles.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\obj\Debug\netcoreapp3.1\04.MargeFiles.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\obj\Debug\netcoreapp3.1\04.MargeFiles.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Engineering\C# Advanced\04.StreamsFilesandDirectoriesLab\04.MargeFiles\obj\Debug\netcoreapp3.1\04.MargeFiles.genruntimeconfig.cache
