@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\05.FunctionalProgrammingExe\\03.CustomMidFunction\\03.CustomMidFunction.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\05.FunctionalProgrammingExe\\03.CustomMidFunction\\03.CustomMidFunction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\05.FunctionalProgrammingExe\\03.CustomMidFunction\\03.CustomMidFunction.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\05.FunctionalProgrammingExe\\03.CustomMidFunction\\03.CustomMidFunction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\05.FunctionalProgrammingExe\\03.CustomMidFunction\\03.CustomMidFunction.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\05.FunctionalProgrammingExe\\03.CustomMidFunction\\03.CustomMidFunction.csproj",
         "projectName": "03.CustomMidFunction",
-        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\05.FunctionalProgrammingExe\\03.CustomMidFunction\\03.CustomMidFunction.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\05.FunctionalProgrammingExe\\03.CustomMidFunction\\03.CustomMidFunction.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\05.FunctionalProgrammingExe\\03.CustomMidFunction\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\05.FunctionalProgrammingExe\\03.CustomMidFunction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

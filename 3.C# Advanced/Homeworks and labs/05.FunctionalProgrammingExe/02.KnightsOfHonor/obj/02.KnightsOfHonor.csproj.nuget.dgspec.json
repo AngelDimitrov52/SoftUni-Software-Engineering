@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\05.FunctionalProgrammingExe\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\05.FunctionalProgrammingExe\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\05.FunctionalProgrammingExe\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\05.FunctionalProgrammingExe\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\05.FunctionalProgrammingExe\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\05.FunctionalProgrammingExe\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj",
         "projectName": "02.KnightsOfHonor",
-        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\05.FunctionalProgrammingExe\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\05.FunctionalProgrammingExe\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\05.FunctionalProgrammingExe\\02.KnightsOfHonor\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\05.FunctionalProgrammingExe\\02.KnightsOfHonor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
