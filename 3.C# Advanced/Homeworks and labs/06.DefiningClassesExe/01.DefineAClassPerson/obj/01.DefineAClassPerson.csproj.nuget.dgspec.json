@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\01.DefineAClassPerson\\01.DefineAClassPerson.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\01.DefineAClassPerson\\01.DefineAClassPerson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\01.DefineAClassPerson\\01.DefineAClassPerson.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\01.DefineAClassPerson\\01.DefineAClassPerson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\01.DefineAClassPerson\\01.DefineAClassPerson.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\01.DefineAClassPerson\\01.DefineAClassPerson.csproj",
         "projectName": "01.DefineAClassPerson",
-        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\01.DefineAClassPerson\\01.DefineAClassPerson.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\01.DefineAClassPerson\\01.DefineAClassPerson.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\01.DefineAClassPerson\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\01.DefineAClassPerson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

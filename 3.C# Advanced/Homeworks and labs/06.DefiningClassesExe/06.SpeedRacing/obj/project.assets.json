@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\06.SpeedRacing\\06.SpeedRacing.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\06.SpeedRacing\\06.SpeedRacing.csproj",
       "projectName": "06.SpeedRacing",
-      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\06.SpeedRacing\\06.SpeedRacing.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\06.SpeedRacing\\06.SpeedRacing.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\06.SpeedRacing\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\06.SpeedRacing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

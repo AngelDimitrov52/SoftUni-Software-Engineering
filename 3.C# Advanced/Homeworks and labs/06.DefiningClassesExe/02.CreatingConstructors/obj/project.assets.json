@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\02.CreatingConstructors\\02.CreatingConstructors.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\02.CreatingConstructors\\02.CreatingConstructors.csproj",
       "projectName": "02.CreatingConstructors",
-      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\02.CreatingConstructors\\02.CreatingConstructors.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\02.CreatingConstructors\\02.CreatingConstructors.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\02.CreatingConstructors\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\02.CreatingConstructors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

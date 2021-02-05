@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\07.RawData\\07.RawData.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\07.RawData\\07.RawData.csproj",
       "projectName": "07.RawData",
-      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\07.RawData\\07.RawData.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\07.RawData\\07.RawData.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\06.DefiningClassesExe\\07.RawData\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\06.DefiningClassesExe\\07.RawData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
