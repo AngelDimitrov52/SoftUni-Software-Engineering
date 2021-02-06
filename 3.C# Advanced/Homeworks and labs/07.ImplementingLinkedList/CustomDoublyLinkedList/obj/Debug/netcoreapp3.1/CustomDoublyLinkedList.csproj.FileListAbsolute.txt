@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.genruntimeconfig.cache
