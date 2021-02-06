@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\bin\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\bin\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\bin\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\bin\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\bin\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\bin\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\obj\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\obj\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\obj\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\obj\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\obj\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\obj\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\08.ImplementingStackAndQueue\01.ImplementTheCustomListClass\obj\Debug\netcoreapp3.1\01.ImplementTheCustomListClass.genruntimeconfig.cache
