@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\09.Gemerics\\ArrayCreator\\GenericArrayCreator.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\ArrayCreator\\GenericArrayCreator.csproj",
       "projectName": "GenericArrayCreator",
-      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\09.Gemerics\\ArrayCreator\\GenericArrayCreator.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\ArrayCreator\\GenericArrayCreator.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\09.Gemerics\\ArrayCreator\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\ArrayCreator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

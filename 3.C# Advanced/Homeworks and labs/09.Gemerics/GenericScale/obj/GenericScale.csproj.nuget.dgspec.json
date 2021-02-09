@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\BoxOfT\\BoxOfT.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\GenericScale\\GenericScale.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\BoxOfT\\BoxOfT.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\GenericScale\\GenericScale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\BoxOfT\\BoxOfT.csproj",
-        "projectName": "BoxOfT",
-        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\BoxOfT\\BoxOfT.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\GenericScale\\GenericScale.csproj",
+        "projectName": "GenericScale",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\GenericScale\\GenericScale.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\BoxOfT\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\3.C# Advanced\\Homeworks and labs\\09.Gemerics\\GenericScale\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
