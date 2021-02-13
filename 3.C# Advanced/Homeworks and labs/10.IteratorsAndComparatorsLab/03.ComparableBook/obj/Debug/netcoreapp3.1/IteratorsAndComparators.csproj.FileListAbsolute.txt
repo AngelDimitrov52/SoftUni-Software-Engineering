@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\bin\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\10.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache
