@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\bin\Debug\netcoreapp3.1\P02.Bee.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P02.Bee\obj\Debug\netcoreapp3.1\P02.Bee.genruntimeconfig.cache

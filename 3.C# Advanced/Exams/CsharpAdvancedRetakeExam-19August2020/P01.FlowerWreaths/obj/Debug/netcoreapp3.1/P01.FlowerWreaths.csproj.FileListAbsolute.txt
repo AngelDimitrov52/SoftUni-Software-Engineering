@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\bin\Debug\netcoreapp3.1\P01.FlowerWreaths.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\bin\Debug\netcoreapp3.1\P01.FlowerWreaths.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\bin\Debug\netcoreapp3.1\P01.FlowerWreaths.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\bin\Debug\netcoreapp3.1\P01.FlowerWreaths.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\bin\Debug\netcoreapp3.1\P01.FlowerWreaths.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\bin\Debug\netcoreapp3.1\P01.FlowerWreaths.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\obj\Debug\netcoreapp3.1\P01.FlowerWreaths.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\obj\Debug\netcoreapp3.1\P01.FlowerWreaths.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\obj\Debug\netcoreapp3.1\P01.FlowerWreaths.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\obj\Debug\netcoreapp3.1\P01.FlowerWreaths.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\obj\Debug\netcoreapp3.1\P01.FlowerWreaths.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\obj\Debug\netcoreapp3.1\P01.FlowerWreaths.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam-19August2020\P01.FlowerWreaths\obj\Debug\netcoreapp3.1\P01.FlowerWreaths.genruntimeconfig.cache
