@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvancedRetakeExam16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache
