@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\bin\Debug\netcoreapp3.1\P02.Re-Volt.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CsharpAdvanced Exam-22Feb2020\P02.Re-Volt\obj\Debug\netcoreapp3.1\P02.Re-Volt.genruntimeconfig.cache

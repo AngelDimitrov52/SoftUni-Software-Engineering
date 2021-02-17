@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7edj2w4G40OHmJf3i2LFv3BaDZGUIxb0MLGtslqmPEJGXGaH3eRYn6ZL8CEcB5TCEJKO3/eLt2lixeZWOlKBJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# Advanced\\Exams\\CsharpAdvanced Exam-22Feb2020\\Guild\\Guild.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AngelPC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\AngelPC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\AngelPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\AngelPC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
