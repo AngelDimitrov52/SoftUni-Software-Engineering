@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\bin\Debug\netcoreapp3.1\P01.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\bin\Debug\netcoreapp3.1\P01.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\bin\Debug\netcoreapp3.1\P01.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\bin\Debug\netcoreapp3.1\P01.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\bin\Debug\netcoreapp3.1\P01.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\bin\Debug\netcoreapp3.1\P01.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\obj\Debug\netcoreapp3.1\P01.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\obj\Debug\netcoreapp3.1\P01.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\obj\Debug\netcoreapp3.1\P01.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\obj\Debug\netcoreapp3.1\P01.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\obj\Debug\netcoreapp3.1\P01.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\obj\Debug\netcoreapp3.1\P01.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# Advanced\Exams\CSharpAdvancedExam\P01\obj\Debug\netcoreapp3.1\P01.genruntimeconfig.cache
