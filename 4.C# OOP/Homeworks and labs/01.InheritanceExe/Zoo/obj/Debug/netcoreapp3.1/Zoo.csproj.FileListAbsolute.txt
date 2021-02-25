@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\01.InheritanceExe\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
