@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
       "projectName": "PlayersAndMonsters",
-      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\PlayersAndMonsters\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\PlayersAndMonsters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

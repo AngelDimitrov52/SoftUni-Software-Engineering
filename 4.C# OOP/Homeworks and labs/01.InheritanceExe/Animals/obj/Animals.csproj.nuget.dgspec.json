@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\Animals\\Animals.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\Animals\\Animals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\Animals\\Animals.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\Animals\\Animals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\Animals\\Animals.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\Animals\\Animals.csproj",
         "projectName": "Animals",
-        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\Animals\\Animals.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\Animals\\Animals.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\Animals\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\Animals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

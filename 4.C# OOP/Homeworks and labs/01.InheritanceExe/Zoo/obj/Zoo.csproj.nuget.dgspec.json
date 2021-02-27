@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\Zoo\\Zoo.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\Zoo\\Zoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\Zoo\\Zoo.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\Zoo\\Zoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\Zoo\\Zoo.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\Zoo\\Zoo.csproj",
         "projectName": "Zoo",
-        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\Zoo\\Zoo.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\Zoo\\Zoo.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\01.InheritanceExe\\Zoo\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\01.InheritanceExe\\Zoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
