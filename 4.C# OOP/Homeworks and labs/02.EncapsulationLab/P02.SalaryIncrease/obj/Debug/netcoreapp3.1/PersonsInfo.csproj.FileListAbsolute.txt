@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\obj\Debug\netcoreapp3.1\PersonsInfo.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\02.Encapsulation\P02.SalaryIncrease\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache
