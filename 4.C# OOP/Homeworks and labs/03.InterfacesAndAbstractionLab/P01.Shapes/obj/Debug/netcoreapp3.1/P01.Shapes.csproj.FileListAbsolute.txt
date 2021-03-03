@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\bin\Debug\netcoreapp3.1\P01.Shapes.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\bin\Debug\netcoreapp3.1\P01.Shapes.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\bin\Debug\netcoreapp3.1\P01.Shapes.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\bin\Debug\netcoreapp3.1\P01.Shapes.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\bin\Debug\netcoreapp3.1\P01.Shapes.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\bin\Debug\netcoreapp3.1\P01.Shapes.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\obj\Debug\netcoreapp3.1\P01.Shapes.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\obj\Debug\netcoreapp3.1\P01.Shapes.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\obj\Debug\netcoreapp3.1\P01.Shapes.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\obj\Debug\netcoreapp3.1\P01.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\obj\Debug\netcoreapp3.1\P01.Shapes.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\obj\Debug\netcoreapp3.1\P01.Shapes.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P01.Shapes\obj\Debug\netcoreapp3.1\P01.Shapes.genruntimeconfig.cache

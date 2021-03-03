@@ -1,0 +1,13 @@
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\bin\Debug\netcoreapp3.1\P02.Cars.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\bin\Debug\netcoreapp3.1\P02.Cars.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\bin\Debug\netcoreapp3.1\P02.Cars.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\bin\Debug\netcoreapp3.1\P02.Cars.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\bin\Debug\netcoreapp3.1\P02.Cars.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\bin\Debug\netcoreapp3.1\P02.Cars.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\obj\Debug\netcoreapp3.1\P02.Cars.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\obj\Debug\netcoreapp3.1\P02.Cars.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\obj\Debug\netcoreapp3.1\P02.Cars.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\obj\Debug\netcoreapp3.1\P02.Cars.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\obj\Debug\netcoreapp3.1\P02.Cars.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\obj\Debug\netcoreapp3.1\P02.Cars.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\03.InterfacesAndAbstractionLab\P02.Cars\obj\Debug\netcoreapp3.1\P02.Cars.genruntimeconfig.cache
