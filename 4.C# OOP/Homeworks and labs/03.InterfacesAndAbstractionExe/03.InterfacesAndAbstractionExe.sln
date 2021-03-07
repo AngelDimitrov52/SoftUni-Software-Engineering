@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04.BorderControl", "P04.Bo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05.BirthdayCelebrations", "P05.BirthdayCelebrations\P05.BirthdayCelebrations.csproj", "{A233116A-C6F2-47A6-BC91-69416E8FA674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.FoodShortage", "P06.FoodShortage\P06.FoodShortage.csproj", "{3F4A1C5A-D48D-4FF7-A509-38FA5C280863}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P06.FoodShortage", "P06.FoodShortage\P06.FoodShortage.csproj", "{3F4A1C5A-D48D-4FF7-A509-38FA5C280863}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09.ExplicitInterfaces", "P09.ExplicitInterfaces\P09.ExplicitInterfaces.csproj", "{3645A44E-D420-43CD-9FAC-BFD30AD6E6F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P09.ExplicitInterfaces", "P09.ExplicitInterfaces\P09.ExplicitInterfaces.csproj", "{3645A44E-D420-43CD-9FAC-BFD30AD6E6F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07.MilitaryElite", "P07.MilitaryElite\P07.MilitaryElite.csproj", "{B9DDFC87-E9E7-469E-B896-89BC8895200A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3645A44E-D420-43CD-9FAC-BFD30AD6E6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3645A44E-D420-43CD-9FAC-BFD30AD6E6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3645A44E-D420-43CD-9FAC-BFD30AD6E6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DDFC87-E9E7-469E-B896-89BC8895200A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DDFC87-E9E7-469E-B896-89BC8895200A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DDFC87-E9E7-469E-B896-89BC8895200A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DDFC87-E9E7-469E-B896-89BC8895200A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
