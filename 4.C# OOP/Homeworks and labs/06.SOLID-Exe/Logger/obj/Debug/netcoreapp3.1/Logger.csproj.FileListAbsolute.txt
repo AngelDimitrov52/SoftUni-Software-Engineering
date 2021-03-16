@@ -1,0 +1,26 @@
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.exe
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.deps.json
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.json
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.dll
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\AngelPC\Desktop\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.genruntimeconfig.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.exe
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.dev.json
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\bin\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\AngelPC\Desktop\SoftUni\SoftUni-Software-Home\C# OOP\06.SOLID-Exe\Logger\obj\Debug\netcoreapp3.1\Logger.genruntimeconfig.cache
