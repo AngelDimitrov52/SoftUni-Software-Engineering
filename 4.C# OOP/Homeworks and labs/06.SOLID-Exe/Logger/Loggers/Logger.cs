@@ -8,11 +8,11 @@ namespace SOLID.Loggers
 {
     public class Logger : ILogger
     {
-        private readonly IAppender[] appender;
+        private readonly IAppender[] appenders;
 
-        public Logger(params IAppender[] appender)
+        public Logger(params IAppender[] appenders)
         {
-            this.appender = appender;
+            this.appenders = appenders;
         }
 
         public void Error(string data, string message)
@@ -39,11 +39,21 @@ namespace SOLID.Loggers
 
         private void AppendToAppenders(string data, ReportLevel level, string message)
         {
-            foreach (var item in appender)
+            foreach (var item in appenders)
             {
                 item.Append(data, level, message);
             }
 
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            foreach (var item in appenders)
+            {
+                sb.AppendLine(item.ToString());
+            }
+            return sb.ToString().TrimEnd();
         }
     }
 }

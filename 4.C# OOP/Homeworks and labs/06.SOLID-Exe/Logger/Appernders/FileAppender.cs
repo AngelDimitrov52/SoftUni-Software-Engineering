@@ -24,9 +24,14 @@ namespace SOLID.Appernders
             {
                 return;
             }
+            MessageCout++;
             string append = string.Format(layout.Template, data, level, message) + Environment.NewLine;
 
             logFile.Write(append);
+        }
+        public override string ToString()
+        {
+            return base.ToString() + $", File size: {logFile.Size}";
         }
     }
 }

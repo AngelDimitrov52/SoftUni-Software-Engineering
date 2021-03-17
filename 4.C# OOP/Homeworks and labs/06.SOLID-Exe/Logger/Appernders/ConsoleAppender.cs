@@ -19,6 +19,7 @@ namespace SOLID.Appernders
             {
                 return;
             }
+            MessageCout++;
             string append = string.Format(layout.Template, data, level, message);
 
             Console.WriteLine(append);
