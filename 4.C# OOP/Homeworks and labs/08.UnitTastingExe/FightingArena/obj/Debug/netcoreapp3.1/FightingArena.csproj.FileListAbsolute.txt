@@ -1,0 +1,9 @@
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb

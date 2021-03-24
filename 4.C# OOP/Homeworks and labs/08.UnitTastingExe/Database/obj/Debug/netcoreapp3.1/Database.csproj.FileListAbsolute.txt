@@ -1,0 +1,9 @@
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\AngelPC\Desktop\08.UnitTastingExe\Database\obj\Debug\netcoreapp3.1\Database.pdb
