@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\Desktop\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\Desktop\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj",
         "projectName": "DatabaseExtended",
-        "projectPath": "C:\\Users\\AngelPC\\Desktop\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\Desktop\\08.UnitTastingExe\\DatabaseExtended\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingExe\\DatabaseExtended\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

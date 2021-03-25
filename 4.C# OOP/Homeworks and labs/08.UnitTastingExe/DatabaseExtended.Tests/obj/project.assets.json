@@ -6536,11 +6536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\08.UnitTastingExe\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingExe\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
       "projectName": "DatabaseExtended.Tests",
-      "projectPath": "C:\\Users\\AngelPC\\Desktop\\08.UnitTastingExe\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingExe\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\Desktop\\08.UnitTastingExe\\DatabaseExtended.Tests\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingExe\\DatabaseExtended.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6557,8 +6557,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\AngelPC\\Desktop\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj": {
-              "projectPath": "C:\\Users\\AngelPC\\Desktop\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj"
+            "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj": {
+              "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingExe\\DatabaseExtended\\DatabaseExtended.csproj"
             }
           }
         }
