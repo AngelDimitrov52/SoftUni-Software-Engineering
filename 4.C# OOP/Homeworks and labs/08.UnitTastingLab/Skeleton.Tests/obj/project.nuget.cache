@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BxlWiBS6YkVdCAkl5FVUPv8Q6eKaEtELAevV+Wmro9YfK/7FDme/UPBdlXDN2TQO3FaBKo9cOq/FR1vmZJgSMQ==",
+  "dgSpecHash": "C+GuomJMcIPv0l2aCOTfBt73rCELGU86wzhup5kiilNz7Hx7jddESS77JJJJYQjhZDFIbUN0r6LB5gcFjCwdXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\08.UnitTasting\\Skeleton.Tests\\Skeleton.Tests.csproj",
+  "projectFilePath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingLab\\Skeleton.Tests\\Skeleton.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AngelPC\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\AngelPC\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

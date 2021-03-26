@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\08.UnitTasting\\Skeleton\\Skeleton.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingLab\\Skeleton\\Skeleton.csproj",
       "projectName": "Skeleton",
-      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\08.UnitTasting\\Skeleton\\Skeleton.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingLab\\Skeleton\\Skeleton.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\SoftUni-Software-Home\\C# OOP\\08.UnitTasting\\Skeleton\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\08.UnitTastingLab\\Skeleton\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
