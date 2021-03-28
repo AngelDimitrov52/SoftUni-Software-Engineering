@@ -1,16 +1,36 @@
 ﻿using EasterRaces.Models.Cars.Contracts;
-using System;
+using EasterRaces.Repositories.Contracts;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace EasterRaces.Repositories.Entities
 {
-    public class CarRepository : Repository<ICar>
+    public class CarRepository : IRepository<ICar>
     {
-        public override ICar GetByName(string name)
+        private readonly List<ICar> list;
+        public CarRepository()
         {
-            return List.FirstOrDefault(p => p.Model == name);
+            list = new List<ICar>();
+        }
+        public void Add(ICar model)
+        {
+            list.Add(model);
+        }
+
+        public IReadOnlyCollection<ICar> GetAll()
+        {
+            return list.ToArray();
+        }
+
+        public ICar GetByName(string name)
+        {
+            ICar result = list.FirstOrDefault(p => p.Model == name);
+            return result;
+        }
+
+        public bool Remove(ICar model)
+        {
+            return list.Remove(model);
         }
     }
 }

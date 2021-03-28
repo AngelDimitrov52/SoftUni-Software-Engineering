@@ -61,7 +61,7 @@ namespace EasterRaces.Models.Races.Entities
             {
                 throw new ArgumentException($"Driver {driver.Name} could not participate in race.");
             }
-            if (drivers.Contains(driver))
+            if (drivers.Any(p => p.Name == driver.Name))
             {
                 throw new ArgumentNullException(nameof(IDriver), $"Driver {driver.Name} is already added in {Name} race.");
             }

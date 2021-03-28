@@ -10,18 +10,15 @@ namespace EasterRaces.Models.Drivers.Entities
     public class Driver : IDriver
     {
         private string name;
-        private bool canParticipate;
+
         public Driver(string name)
         {
             Name = name;
-            CanParticipate = false;
-            NumberOfWins = 0;
-            Car = null;
         }
         public string Name
         {
             get => name;
-            set
+            private set
             {
                 if (string.IsNullOrEmpty(value) || value.Length < 5)
                 {
@@ -33,23 +30,12 @@ namespace EasterRaces.Models.Drivers.Entities
 
         public ICar Car { get; private set; }
 
+
+
         public int NumberOfWins { get; private set; }
 
-        public bool CanParticipate
-        {
-            get => canParticipate;
-            private set
-            {
-                if (Car == null)
-                {
-                    canParticipate = false;
-                }
-                else
-                {
-                    canParticipate = true;
-                }
-            }
-        }
+
+        public bool CanParticipate => Car != null;
 
         public void AddCar(ICar car)
         {

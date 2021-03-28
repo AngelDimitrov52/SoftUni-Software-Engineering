@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\Desktop\\Exam Retake - 22 August 2020\\Exam-Skeleton\\EasterRaces\\EasterRaces.csproj": {}
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\Exam Retake - 22 August 2020\\Exam-Skeleton\\EasterRaces\\EasterRaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\Desktop\\Exam Retake - 22 August 2020\\Exam-Skeleton\\EasterRaces\\EasterRaces.csproj": {
+    "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\Exam Retake - 22 August 2020\\Exam-Skeleton\\EasterRaces\\EasterRaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\Exam Retake - 22 August 2020\\Exam-Skeleton\\EasterRaces\\EasterRaces.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\Exam Retake - 22 August 2020\\Exam-Skeleton\\EasterRaces\\EasterRaces.csproj",
         "projectName": "EasterRaces",
-        "projectPath": "C:\\Users\\AngelPC\\Desktop\\Exam Retake - 22 August 2020\\Exam-Skeleton\\EasterRaces\\EasterRaces.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\Exam Retake - 22 August 2020\\Exam-Skeleton\\EasterRaces\\EasterRaces.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\Desktop\\Exam Retake - 22 August 2020\\Exam-Skeleton\\EasterRaces\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\Exam Retake - 22 August 2020\\Exam-Skeleton\\EasterRaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,9 +8,9 @@ namespace EasterRaces.Models.Cars.Entities
     {
         private const int MinHorsePower = 250;
         private const int MaxHorsePower = 450;
-        private const double CubicCentimeters = 3000;
+
         public SportsCar(string model, int horsePower)
-            : base(model, horsePower, CubicCentimeters, MinHorsePower, MaxHorsePower)
+            : base(model, horsePower, 3000, MinHorsePower, MaxHorsePower)
         {
         }
     }
