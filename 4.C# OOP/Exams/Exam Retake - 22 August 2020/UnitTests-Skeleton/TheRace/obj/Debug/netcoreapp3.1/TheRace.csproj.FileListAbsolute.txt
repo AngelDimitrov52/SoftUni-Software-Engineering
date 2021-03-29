@@ -1,0 +1,9 @@
+C:\Users\AngelPC\Desktop\SoftUni\Software-University\4.C# OOP\Exams\Exam Retake - 22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\AngelPC\Desktop\SoftUni\Software-University\4.C# OOP\Exams\Exam Retake - 22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\AngelPC\Desktop\SoftUni\Software-University\4.C# OOP\Exams\Exam Retake - 22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\AngelPC\Desktop\SoftUni\Software-University\4.C# OOP\Exams\Exam Retake - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\AngelPC\Desktop\SoftUni\Software-University\4.C# OOP\Exams\Exam Retake - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\Software-University\4.C# OOP\Exams\Exam Retake - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\AngelPC\Desktop\SoftUni\Software-University\4.C# OOP\Exams\Exam Retake - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\AngelPC\Desktop\SoftUni\Software-University\4.C# OOP\Exams\Exam Retake - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\AngelPC\Desktop\SoftUni\Software-University\4.C# OOP\Exams\Exam Retake - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
