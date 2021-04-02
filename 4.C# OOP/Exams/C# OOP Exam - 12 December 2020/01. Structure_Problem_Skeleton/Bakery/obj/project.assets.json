@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\C# OOP Exam - 12 December 2020\\01. Structure_Problem_Skeleton\\Bakery\\Bakery.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\C# OOP Exam - 12 December 2020\\01. Structure_Problem_Skeleton\\Bakery\\Bakery.csproj",
       "projectName": "Bakery",
-      "projectPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\C# OOP Exam - 12 December 2020\\01. Structure_Problem_Skeleton\\Bakery\\Bakery.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\C# OOP Exam - 12 December 2020\\01. Structure_Problem_Skeleton\\Bakery\\Bakery.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\C# OOP Exam - 12 December 2020\\01. Structure_Problem_Skeleton\\Bakery\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\C# OOP Exam - 12 December 2020\\01. Structure_Problem_Skeleton\\Bakery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
