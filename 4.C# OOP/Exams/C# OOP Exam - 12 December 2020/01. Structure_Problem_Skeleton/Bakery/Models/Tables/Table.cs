@@ -10,16 +10,16 @@ namespace Bakery.Models.Tables
 {
     public abstract class Table : ITable
     {
-        private readonly List<IBakedFood> FoodOrders;
-        private readonly List<IDrink> DrinkOrders;
+        private readonly List<IBakedFood> foodOrders;
+        private readonly List<IDrink> drinkOrders;
 
         private int capacity;
         private int numberOfPeople;
 
         public Table(int tableNumber, int capacity, decimal pricePerPerson)
         {
-            FoodOrders = new List<IBakedFood>();
-            DrinkOrders = new List<IDrink>();
+            foodOrders = new List<IBakedFood>();
+            drinkOrders = new List<IDrink>();
 
             TableNumber = tableNumber;
             Capacity = capacity;
@@ -73,8 +73,8 @@ namespace Bakery.Models.Tables
 
         public void Clear()
         {
-            FoodOrders.Clear();
-            DrinkOrders.Clear();
+            foodOrders.Clear();
+            drinkOrders.Clear();
 
             IsReserved = false;
             numberOfPeople = 0;
@@ -82,8 +82,8 @@ namespace Bakery.Models.Tables
 
         public decimal GetBill()
         {
-            decimal foodPrice = FoodOrders.Sum(p => p.Price);
-            decimal drinkPrice = DrinkOrders.Sum(p => p.Price);
+            decimal foodPrice = foodOrders.Sum(p => p.Price);
+            decimal drinkPrice = drinkOrders.Sum(p => p.Price);
 
             decimal result = foodPrice + drinkPrice + Price;
             return result;
@@ -102,12 +102,12 @@ namespace Bakery.Models.Tables
 
         public void OrderDrink(IDrink drink)
         {
-            DrinkOrders.Add(drink);
+            drinkOrders.Add(drink);
         }
 
         public void OrderFood(IBakedFood food)
         {
-            FoodOrders.Add(food);
+            foodOrders.Add(food);
         }
 
         public void Reserve(int numberOfPeople)

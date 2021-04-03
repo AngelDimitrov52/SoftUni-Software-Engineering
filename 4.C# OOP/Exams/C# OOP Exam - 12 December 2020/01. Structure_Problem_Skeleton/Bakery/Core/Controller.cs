@@ -114,14 +114,15 @@ namespace Bakery.Core
         public string OrderDrink(int tableNumber, string drinkName, string drinkBrand)
         {
             ITable table = tables.FirstOrDefault(p => p.TableNumber == tableNumber);
-            IDrink drink = drinks.FirstOrDefault(p => p.Name == drinkName);
 
             if (table == null)
             {
                 return $"Could not find table {tableNumber}";
             }
 
-            if (drink == null || drink.Brand != drinkBrand)
+            IDrink drink = drinks.FirstOrDefault(p => p.Name == drinkName && p.Brand == drinkBrand);
+
+            if (drink == null)
             {
                 return $"There is no {drinkName} {drinkBrand} available";
             }
@@ -133,12 +134,13 @@ namespace Bakery.Core
         public string OrderFood(int tableNumber, string foodName)
         {
             ITable table = tables.FirstOrDefault(p => p.TableNumber == tableNumber);
-            IBakedFood food = bakedFoods.FirstOrDefault(p => p.Name == foodName);
 
             if (table == null)
             {
                 return $"Could not find table {tableNumber}";
             }
+
+            IBakedFood food = bakedFoods.FirstOrDefault(p => p.Name == foodName);
 
             if (food == null)
             {
