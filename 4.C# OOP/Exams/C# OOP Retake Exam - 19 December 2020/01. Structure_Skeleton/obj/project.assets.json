@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\C# OOP Retake Exam - 19 December 2020\\01. Structure_Skeleton\\WarCroft.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\C# OOP Retake Exam - 19 December 2020\\01. Structure_Skeleton\\WarCroft.csproj",
       "projectName": "WarCroft",
-      "projectPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\C# OOP Retake Exam - 19 December 2020\\01. Structure_Skeleton\\WarCroft.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\C# OOP Retake Exam - 19 December 2020\\01. Structure_Skeleton\\WarCroft.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\C# OOP Retake Exam - 19 December 2020\\01. Structure_Skeleton\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\C# OOP Retake Exam - 19 December 2020\\01. Structure_Skeleton\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
