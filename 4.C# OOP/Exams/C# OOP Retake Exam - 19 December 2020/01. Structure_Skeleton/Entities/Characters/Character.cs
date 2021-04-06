@@ -59,9 +59,10 @@ namespace WarCroft.Entities.Characters.Contracts
                     health = BaseHealth;
                 }
                 health = value;
-                if (health < 0)
+                if (health <= 0)
                 {
                     health = 0;
+                    IsAlive = false;
                 }
             }
         }
@@ -100,6 +101,11 @@ namespace WarCroft.Entities.Characters.Contracts
             if (Armor == 0)
             {
                 Health -= hitPoints;
+                if (Health <= 0)
+                {
+                    IsAlive = false;
+                }
+                return;
             }
 
             Armor -= hitPoints;
@@ -107,6 +113,7 @@ namespace WarCroft.Entities.Characters.Contracts
             {
                 double most = Math.Abs(Armor);
                 Armor = 0;
+                Health -= most;
 
             }
 
@@ -126,6 +133,14 @@ namespace WarCroft.Entities.Characters.Contracts
             {
                 throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
             }
+        }
+        public override string ToString()
+        {
+            if (IsAlive == true)
+            {
+                return "Alive";
+            }
+            return "Dead";
         }
     }
 }

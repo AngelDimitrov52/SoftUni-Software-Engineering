@@ -9,7 +9,7 @@ namespace WarCroft.Entities.Inventory.Contracts
 {
     public abstract class Bag : IBag
     {
-        private int capacity;
+
         private List<Item> items;
         public Bag(int capacity)
         {
@@ -25,10 +25,11 @@ namespace WarCroft.Entities.Inventory.Contracts
 
         public void AddItem(Item item)
         {
-            if (Load + item.Weight > capacity)
+            if (Load + item.Weight > Capacity)
             {
                 throw new InvalidOperationException(ExceptionMessages.ExceedMaximumBagCapacity);
             }
+            Capacity -= Load + item.Weight;
             items.Add(item);
         }
 
