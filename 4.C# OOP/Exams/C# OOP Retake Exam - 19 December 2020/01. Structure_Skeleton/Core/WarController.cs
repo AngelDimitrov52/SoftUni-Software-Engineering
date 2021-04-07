@@ -11,8 +11,8 @@ namespace WarCroft.Core
 {
     public class WarController
     {
-        private List<Character> charactersParty;
-        private Stack<Item> itemsPool;
+        private readonly List<Character> charactersParty;
+        private readonly Stack<Item> itemsPool;
         public WarController()
         {
             charactersParty = new List<Character>();
@@ -21,22 +21,22 @@ namespace WarCroft.Core
 
         public string JoinParty(string[] args)
         {
-            string type = args[0];
+            string characterType = args[0];
             string name = args[1];
             Character character = null;
 
-            if (type == nameof(Priest))
+            if (characterType == nameof(Priest))
             {
                 character = new Priest(name);
             }
-            else if (type == nameof(Warrior))
+            else if (characterType == nameof(Warrior))
             {
                 character = new Warrior(name);
             }
 
             if (character == null)
             {
-                throw new ArgumentException(string.Format(ExceptionMessages.InvalidCharacterType, type));
+                throw new ArgumentException(string.Format(ExceptionMessages.InvalidCharacterType, characterType));
             }
             charactersParty.Add(character);
 
@@ -82,6 +82,7 @@ namespace WarCroft.Core
                 throw new InvalidOperationException(string.Format(ExceptionMessages.ItemPoolEmpty));
             }
             Item item = itemsPool.Pop();
+
             character.Bag.AddItem(item);
 
             return string.Format(SuccessMessages.PickUpItem, name, item.GetType().Name);
@@ -102,6 +103,7 @@ namespace WarCroft.Core
 
             character.UseItem(item);
 
+
             return string.Format(SuccessMessages.UsedItem, charName, itemName);
 
         }
@@ -116,7 +118,7 @@ namespace WarCroft.Core
                     $" AP: {character.Armor}/{character.BaseArmor}, Status: {character}");
             }
 
-            return sb.ToString().TrimEnd();
+            return sb.ToString().Trim();
         }
 
         public string Attack(string[] args)
@@ -142,7 +144,7 @@ namespace WarCroft.Core
                 throw new ArgumentException(string.Format(ExceptionMessages.AttackFail, attackerName));
             }
 
-            IAttacker attackerToAttac = (IAttacker)attacker;
+            Warrior attackerToAttac = (Warrior)attacker;
             attackerToAttac.Attack(receiver);
 
 
@@ -179,10 +181,10 @@ namespace WarCroft.Core
 
             if (healer.GetType().Name == nameof(Warrior))
             {
-                throw new ArgumentException(string.Format(ExceptionMessages.AttackFail, healerName));
+                throw new ArgumentException(string.Format(ExceptionMessages.HealerCannotHeal, healerName));
             }
 
-            IHealer healerToHeal = (IHealer)healer;
+            Priest healerToHeal = (Priest)healer;
             healerToHeal.Heal(receiver);
 
 

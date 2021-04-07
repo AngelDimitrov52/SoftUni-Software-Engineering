@@ -10,7 +10,7 @@ namespace WarCroft.Entities.Inventory.Contracts
     public abstract class Bag : IBag
     {
 
-        private List<Item> items;
+        private readonly List<Item> items;
         public Bag(int capacity)
         {
             Capacity = capacity;
@@ -27,9 +27,9 @@ namespace WarCroft.Entities.Inventory.Contracts
         {
             if (Load + item.Weight > Capacity)
             {
-                throw new InvalidOperationException(ExceptionMessages.ExceedMaximumBagCapacity);
+                throw new InvalidOperationException(string.Format(ExceptionMessages.ExceedMaximumBagCapacity));
             }
-            Capacity -= Load + item.Weight;
+
             items.Add(item);
         }
 
@@ -37,13 +37,13 @@ namespace WarCroft.Entities.Inventory.Contracts
         {
             if (items.Count == 0)
             {
-                throw new InvalidOperationException(ExceptionMessages.EmptyBag);
+                throw new InvalidOperationException(string.Format(ExceptionMessages.EmptyBag));
             }
-            var item = items.FirstOrDefault(p => p.GetType().Name == name);
+            Item item = items.FirstOrDefault(p => p.GetType().Name == name);
 
             if (item == null)
             {
-                throw new ArgumentException($"No item with name {name} in bag!");
+                throw new ArgumentException(string.Format(ExceptionMessages.ItemNotFoundInBag, name));
             }
 
             items.Remove(item);

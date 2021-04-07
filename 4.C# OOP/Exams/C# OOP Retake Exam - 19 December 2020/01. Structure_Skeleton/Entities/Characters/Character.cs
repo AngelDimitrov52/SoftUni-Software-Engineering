@@ -10,21 +10,18 @@ namespace WarCroft.Entities.Characters.Contracts
     {
         // TODO: Implement the rest of the class.
         private string name;
-        private double baseHealth;
-        private double baseArmor;
         private double health;
         private double armor;
 
         public Character(string name, double health, double armor, double abilityPoints, Bag bag)
         {
             Name = name;
-            baseHealth = health;
-            Health = health;
-            baseArmor = armor;
-            Armor = armor;
+            BaseHealth = health;
+            Health = BaseHealth;
+            BaseArmor = armor;
+            Armor = BaseArmor;
             AbilityPoints = abilityPoints;
             Bag = bag;
-            IsAlive = true;
         }
 
         public string Name
@@ -35,64 +32,56 @@ namespace WarCroft.Entities.Characters.Contracts
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(ExceptionMessages.CharacterNameInvalid);
+                    throw new ArgumentException(string.Format(ExceptionMessages.CharacterNameInvalid));
                 }
                 name = value;
             }
         }
-        public double BaseHealth
-        {
-            get => baseHealth;
+        public double BaseHealth { get; private set; }
 
-            private set
-            {
-                baseHealth = value;
-            }
-        }
         public double Health
         {
             get => health;
             set
             {
-                if (value >= BaseHealth)
-                {
-                    health = BaseHealth;
-                }
+
                 health = value;
-                if (health <= 0)
+                if (health < 0)
                 {
                     health = 0;
                     IsAlive = false;
                 }
+
+                if (health > BaseHealth)
+                {
+                    health = BaseHealth;
+                }
             }
         }
 
-        public double BaseArmor
-        {
-            get => baseArmor;
+        public double BaseArmor { get; private set; }
 
-            private set
-            {
-                baseArmor = value;
-            }
-        }
         public double Armor
         {
             get => armor;
             set
             {
+                armor = value;
                 if (value >= BaseArmor)
                 {
                     armor = BaseArmor;
                 }
-                armor = value;
+                if (armor < 0)
+                {
+                    armor = 0;
+                }
             }
         }
         public double AbilityPoints { get; private set; }
 
         public Bag Bag { get; private set; }
 
-        public bool IsAlive { get; set; } = true;
+        public bool IsAlive { get; private set; } = true;
 
         public void TakeDamage(double hitPoints)
         {
@@ -101,37 +90,30 @@ namespace WarCroft.Entities.Characters.Contracts
             if (Armor == 0)
             {
                 Health -= hitPoints;
-                if (Health <= 0)
+            }
+            else
+            {
+
+                Armor -= hitPoints;
+                if (Armor < 0)
                 {
-                    IsAlive = false;
+                    double most = Math.Abs(Armor);
+                    Armor = 0;
+                    Health -= most;
+
                 }
-                return;
             }
-
-            Armor -= hitPoints;
-            if (Armor < 0)
-            {
-                double most = Math.Abs(Armor);
-                Armor = 0;
-                Health -= most;
-
-            }
-
-            if (Health <= 0)
-            {
-                IsAlive = false;
-            }
-
         }
         public void UseItem(Item item)
         {
+            this.EnsureAlive();
             item.AffectCharacter(this);
         }
         protected void EnsureAlive()
         {
             if (!this.IsAlive)
             {
-                throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
+                throw new InvalidOperationException(string.Format(ExceptionMessages.AffectedCharacterDead));
             }
         }
         public override string ToString()

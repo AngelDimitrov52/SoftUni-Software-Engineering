@@ -13,13 +13,13 @@ namespace WarCroft.Entities.Items
 			this.Weight = weight;
 		}
 
-		public int Weight { get; }
+		public int Weight { get;}
 
 		public virtual void AffectCharacter(Character character)
 		{
 			if (!character.IsAlive)
 			{
-				throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
+				throw new InvalidOperationException(string.Format(ExceptionMessages.AffectedCharacterDead));
 			}
 		}
 	}

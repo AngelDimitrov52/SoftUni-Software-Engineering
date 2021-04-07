@@ -18,16 +18,17 @@ namespace WarCroft.Entities.Characters
         public void Attack(Character character)
         {
             this.EnsureAlive();
+
             if (!character.IsAlive)
             {
-                throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
+                throw new InvalidOperationException(string.Format(ExceptionMessages.AffectedCharacterDead));
             }
-            if (this.Name == character.Name && this.GetType().Name == character.GetType().Name)
+            if (this.Name == character.Name && character.GetType().Name == nameof(Warrior))
             {
-                throw new InvalidOperationException(ExceptionMessages.CharacterAttacksSelf);
+                throw new InvalidOperationException(string.Format(ExceptionMessages.CharacterAttacksSelf));
             }
 
-            character.TakeDamage(this.AbilityPoints);
+            character.TakeDamage(AbilityPoints);
         }
     }
 }

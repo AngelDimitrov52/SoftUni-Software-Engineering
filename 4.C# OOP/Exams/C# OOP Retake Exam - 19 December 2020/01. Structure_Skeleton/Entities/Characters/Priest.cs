@@ -19,9 +19,10 @@ namespace WarCroft.Entities.Characters
             this.EnsureAlive();
             if (!character.IsAlive)
             {
-                throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
+                throw new InvalidOperationException(string.Format(ExceptionMessages.AffectedCharacterDead));
             }
             character.Health += this.AbilityPoints;
+           
         }
     }
 }
