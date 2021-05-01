@@ -2,11 +2,14 @@
 
 namespace P01.Singleton
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var db = SingletonDataContainer.Instace;
+            var db2 = SingletonDataContainer.Instace;
+            var db3 = SingletonDataContainer.Instace;
+            var db4 = SingletonDataContainer.Instace;
         }
     }
 }
