@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AngelPC\\OneDrive\\Desktop\\Workshop-DependencyInjection\\DI\\DI.csproj": {}
+    "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\Workshop-DependencyInjection\\DI\\DI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AngelPC\\OneDrive\\Desktop\\Workshop-DependencyInjection\\DI\\DI.csproj": {
+    "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\Workshop-DependencyInjection\\DI\\DI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\Workshop-DependencyInjection\\DI\\DI.csproj",
+        "projectUniqueName": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\Workshop-DependencyInjection\\DI\\DI.csproj",
         "projectName": "DI",
-        "projectPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\Workshop-DependencyInjection\\DI\\DI.csproj",
+        "projectPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\Workshop-DependencyInjection\\DI\\DI.csproj",
         "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\Workshop-DependencyInjection\\DI\\obj\\",
+        "outputPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Homeworks and labs\\Workshop-DependencyInjection\\DI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
