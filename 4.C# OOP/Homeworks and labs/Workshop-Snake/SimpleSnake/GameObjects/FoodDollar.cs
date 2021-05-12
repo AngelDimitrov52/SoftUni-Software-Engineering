@@ -8,7 +8,7 @@ namespace SimpleSnake.GameObjects
     {
         private const char foodSymbol = '&';
         private const int points = 2;
-        public FoodDollar(Wall wall, int points, char foodSymbol)
+        public FoodDollar(Wall wall)
             : base(wall, points, foodSymbol)
         {
         }
