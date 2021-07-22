@@ -1,0 +1,17 @@
+{
+  "name": "06JS-Applications-Client-Side-Rendering-Lab-Resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server",
+    "start:server": "cd ./server && node ./server.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "lit-html": "^1.4.1"
+  }
+}
