@@ -1,4 +1,4 @@
-import { LitRenderer } from "./rendering/litRenderer.js";
+import { LitRender } from "./myRender/litRenderer.js";
 
 import page from './node_modules/page/page.mjs';
 import navPage from "./pages/navPage.js";
@@ -12,7 +12,7 @@ import editPage from "./pages/editPage.js";
 import myListingPage from "./pages/myListingPage.js";
 import searchingPage from "./pages/searchingPage.js";
 
-let litRender = new LitRenderer();
+let litRender = new LitRender();
 
 let appElemet = document.getElementById('site-content');
 let navElemet = document.getElementById('nav');
