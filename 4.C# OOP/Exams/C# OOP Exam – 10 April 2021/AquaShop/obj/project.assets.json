@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\01. Structure_Skeleton\\AquaShop\\AquaShop.csproj",
+      "projectUniqueName": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\C# OOP Exam – 10 April 2021\\AquaShop\\AquaShop.csproj",
       "projectName": "AquaShop",
-      "projectPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\01. Structure_Skeleton\\AquaShop\\AquaShop.csproj",
+      "projectPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\C# OOP Exam – 10 April 2021\\AquaShop\\AquaShop.csproj",
       "packagesPath": "C:\\Users\\AngelPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\01. Structure_Skeleton\\AquaShop\\obj\\",
+      "outputPath": "C:\\Users\\AngelPC\\OneDrive\\Desktop\\SoftUni\\Software-University\\4.C# OOP\\Exams\\C# OOP Exam – 10 April 2021\\AquaShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AngelPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,7 +78,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
