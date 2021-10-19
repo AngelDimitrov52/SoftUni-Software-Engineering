@@ -1,1 +1,0 @@
-export const titleFormatter = (title) => title.replace(/ /g, '-').toLowerCase();

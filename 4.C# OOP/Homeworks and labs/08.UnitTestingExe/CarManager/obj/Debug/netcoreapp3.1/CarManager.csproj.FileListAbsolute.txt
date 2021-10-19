@@ -1,8 +1,0 @@
-C:\Users\AngelPC\Desktop\08.UnitTastingExe\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
-C:\Users\AngelPC\Desktop\08.UnitTastingExe\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
-C:\Users\AngelPC\Desktop\08.UnitTastingExe\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
-C:\Users\AngelPC\Desktop\08.UnitTastingExe\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
-C:\Users\AngelPC\Desktop\08.UnitTastingExe\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
-C:\Users\AngelPC\Desktop\08.UnitTastingExe\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
-C:\Users\AngelPC\Desktop\08.UnitTastingExe\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
-C:\Users\AngelPC\Desktop\08.UnitTastingExe\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
